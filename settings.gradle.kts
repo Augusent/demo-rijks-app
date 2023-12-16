@@ -36,4 +36,8 @@ enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 include(
     ":app",
+    ":core:screen",
+    ":domain:model",
+    ":api:public",
+    ":api:rijks-impl",
 )
