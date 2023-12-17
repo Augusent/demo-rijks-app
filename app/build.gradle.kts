@@ -21,6 +21,7 @@ dependencies {
     implementation(libs.androidx.appcompat)
     implementation(libs.androidx.activity.compose)
     implementation(libs.androidx.paging.compose) // temp, todo: remove
+    implementation(libs.androidx.navigation.compose)
     implementation(compose.foundation)
     implementation(compose.material3)
     implementation(compose.runtime)

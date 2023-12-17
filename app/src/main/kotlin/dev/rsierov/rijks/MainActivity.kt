@@ -3,9 +3,9 @@ package dev.rsierov.rijks
 import android.os.Bundle
 import androidx.activity.compose.setContent
 import androidx.appcompat.app.AppCompatActivity
-import androidx.compose.foundation.layout.Box
-import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.ui.Modifier
+import androidx.navigation.compose.NavHost
+import androidx.navigation.compose.composable
+import androidx.navigation.compose.rememberNavController
 import dagger.hilt.android.AndroidEntryPoint
 import dev.rsierov.core.screen.Screen
 import javax.inject.Inject
@@ -18,11 +18,18 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        val screen = screens.getValue("home/art-gallery")
         setContent {
-            Box(modifier = Modifier.fillMaxSize()) {
-                with(screen) {
-                    Content()
+            val navController = rememberNavController()
+            NavHost(
+                navController = navController,
+                startDestination = "home/art-gallery",
+            ) {
+                screens.forEach { (route, screen) ->
+                    composable(route) {
+                        with(screen) {
+                            Content(navController)
+                        }
+                    }
                 }
             }
         }

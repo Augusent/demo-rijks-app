@@ -18,6 +18,7 @@ lyricist = "1.4.2"
 datastore = "1.1.0-dev01"
 dagger-hilt = "2.49"
 paging = "3.2.1"
+navigation = "2.7.6"
 
 [plugins]
 cacheFixPlugin = { id = "org.gradle.android.cache-fix", version = "2.8.1" }
@@ -55,6 +56,10 @@ androidx-lifecycle-runtime = { module = "androidx.lifecycle:lifecycle-runtime-kt
 androidx-lifecycle-viewmodel = { module = "androidx.lifecycle:lifecycle-viewmodel-ktx", version.ref = "androidxlifecycle" }
 
 androidx-hilt-navigation-compose = "androidx.hilt:hilt-navigation-compose:1.1.0"
+
+androidx-navigation-compose = { module = "androidx.navigation:navigation-compose", version.ref = "navigation" }
+androidx-navigation-runtime = { module = "androidx.navigation:navigation-runtime-ktx", version.ref = "navigation" }
+androidx-navigation-common = { module = "androidx.navigation:navigation-common-ktx", version.ref = "navigation" }
 
 paging-common = { module = "app.cash.paging:paging-common", version.ref = "paging-multiplatform" }
 paging-compose = { module = "app.cash.paging:paging-compose-common", version.ref = "paging-multiplatform" }

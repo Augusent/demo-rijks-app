@@ -11,4 +11,5 @@ android {
 dependencies {
     implementation(compose.foundation)
     implementation(compose.runtime)
+    implementation(libs.androidx.navigation.runtime)
 }

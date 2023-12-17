@@ -28,6 +28,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.lifecycle.viewModelScope
+import androidx.navigation.NavHostController
 import androidx.paging.LoadState
 import androidx.paging.compose.LazyPagingItems
 import androidx.paging.compose.collectAsLazyPagingItems
@@ -41,7 +42,7 @@ import javax.inject.Inject
 internal class ArtGalleryScreen @Inject constructor() : Screen {
 
     @Composable
-    override fun Content() {
+    override fun Content(navController: NavHostController) {
         val viewModel = hiltViewModel<ViewModel>()
         val workflow = viewModel.workflow
         val gallery = workflow.gallery.collectAsLazyPagingItems()
@@ -53,7 +54,7 @@ internal class ArtGalleryScreen @Inject constructor() : Screen {
             gallery = gallery,
             onRetryPage = gallery::retry,
             onRefreshGallery = gallery::refresh,
-            onArtClick = { println("$it clicked") },
+            onArtClick = { navController.navigate("home/art-gallery/{art_id}") },
             modifier = Modifier.fillMaxSize()
         )
     }
