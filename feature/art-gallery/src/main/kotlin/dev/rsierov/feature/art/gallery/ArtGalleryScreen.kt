@@ -47,14 +47,11 @@ internal class ArtGalleryScreen @Inject constructor() : Screen {
         val workflow = viewModel.workflow
         val gallery = workflow.gallery.collectAsLazyPagingItems()
 
-        LaunchedEffect(workflow) {
-            workflow.loadGallery()
-        }
         ArtGalleryContent(
             gallery = gallery,
             onRetryPage = gallery::retry,
             onRefreshGallery = gallery::refresh,
-            onArtClick = { navController.navigate("home/art-gallery/{art_id}") },
+            onArtClick = { navController.navigate("home/art-gallery/${it.objectNumber}") },
             modifier = Modifier.fillMaxSize()
         )
     }
@@ -64,6 +61,11 @@ internal class ArtGalleryScreen @Inject constructor() : Screen {
         workflowFactory: ArtGalleryWorkflow.Factory,
     ) : androidx.lifecycle.ViewModel() {
         val workflow = workflowFactory.create(viewModelScope)
+
+        init {
+            // initially load once
+            workflow.loadGallery()
+        }
     }
 }
 

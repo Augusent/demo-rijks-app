@@ -12,20 +12,14 @@ android {
 
 dependencies {
 
-    implementation(projects.core.screen) // temp, todo: remove
-    implementation(projects.feature.artGallery)
-
-    implementation(projects.data) // temp, todo: remove
     implementation(projects.api.public)
+    implementation(projects.core.screen)
+    implementation(projects.feature.artGallery)
+    implementation(projects.feature.artDetails)
 
     implementation(libs.androidx.appcompat)
     implementation(libs.androidx.activity.compose)
-    implementation(libs.androidx.paging.compose) // temp, todo: remove
     implementation(libs.androidx.navigation.compose)
-    implementation(compose.foundation)
-    implementation(compose.material3)
-    implementation(compose.runtime)
-    implementation(compose.ui)
     implementation(libs.google.dagger.hilt.android)
     ksp(libs.google.dagger.hilt.compiler)
     
