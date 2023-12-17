@@ -1,0 +1,84 @@
+package dev.rsierov.feature.art.gallery.ui
+
+import androidx.compose.foundation.Image
+import androidx.compose.foundation.background
+import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.height
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.BrokenImage
+import androidx.compose.material.icons.filled.Image
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Surface
+import androidx.compose.material3.Text
+import androidx.compose.runtime.Composable
+import androidx.compose.ui.Alignment
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.ColorFilter
+import androidx.compose.ui.graphics.vector.rememberVectorPainter
+import androidx.compose.ui.layout.ContentScale
+import androidx.compose.ui.unit.dp
+import coil.compose.AsyncImage
+import dev.rsierov.domain.model.ArtObject
+import dev.rsierov.feature.art.gallery.ArtGalleryItem
+
+@Composable
+internal fun ArtItem(
+    item: ArtGalleryItem.PieceOfArt,
+    onClick: (ArtObject) -> Unit,
+    modifier: Modifier
+) {
+    Surface(
+        onClick = { onClick(item.art) },
+        color = MaterialTheme.colorScheme.background,
+        modifier = modifier
+    ) {
+        Row(
+            horizontalArrangement = Arrangement.spacedBy(16.dp),
+        ) {
+            if (item.art.hasImage) {
+                AsyncImage(
+                    model = item.art.headerImage.url,
+                    contentDescription = item.art.title,
+                    contentScale = ContentScale.Crop,
+                    alignment = Alignment.Center,
+                    placeholder = rememberVectorPainter(image = Icons.Default.Image),
+                    modifier = Modifier
+                        .height(120.dp)
+                        .weight(1f)
+                )
+            } else {
+                Image(
+                    imageVector = Icons.Default.BrokenImage,
+                    colorFilter = ColorFilter.tint(MaterialTheme.colorScheme.surfaceVariant),
+                    contentDescription = "art image placeholder",
+                    modifier = Modifier
+                        .height(120.dp)
+                        .weight(1f)
+                )
+            }
+            Column(
+                verticalArrangement = Arrangement.spacedBy(4.dp),
+                modifier = Modifier
+                    .weight(2f)
+                    .background(MaterialTheme.colorScheme.surface)
+            ) {
+                Text(
+                    text = item.art.title,
+                    style = MaterialTheme.typography.titleMedium,
+                )
+                Text(
+                    text = "#${item.art.objectNumber}",
+                    style = MaterialTheme.typography.labelMedium,
+                )
+                Spacer(modifier = Modifier.height(8.dp))
+                Text(
+                    text = item.art.longTitle,
+                    style = MaterialTheme.typography.bodyMedium,
+                )
+            }
+        }
+    }
+}

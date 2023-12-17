@@ -12,6 +12,9 @@ android {
 
 dependencies {
 
+    implementation(projects.core.screen) // temp, todo: remove
+    implementation(projects.feature.artGallery)
+
     implementation(projects.data) // temp, todo: remove
     implementation(projects.api.public)
 

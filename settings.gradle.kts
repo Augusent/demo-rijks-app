@@ -41,4 +41,5 @@ include(
     ":api:public",
     ":api:rijks-impl",
     ":data",
+    ":feature:art-gallery"
 )
