@@ -15,6 +15,6 @@ internal interface ArtGalleryBinderModule {
 
     @Binds
     @IntoMap
-    @StringKey("home/art-gallery")
+    @StringKey(Screen.Destination.ArtGallery)
     fun artGallery(screen: ArtGalleryScreen): Screen
 }

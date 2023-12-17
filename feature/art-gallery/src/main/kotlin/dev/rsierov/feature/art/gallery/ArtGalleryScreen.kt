@@ -22,7 +22,6 @@ import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
-import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
@@ -51,7 +50,7 @@ internal class ArtGalleryScreen @Inject constructor() : Screen {
             gallery = gallery,
             onRetryPage = gallery::retry,
             onRefreshGallery = gallery::refresh,
-            onArtClick = { navController.navigate("home/art-gallery/${it.objectNumber}") },
+            onArtClick = { navController.navigate(Screen.ArtDetails(it.objectNumber)) },
             modifier = Modifier.fillMaxSize()
         )
     }
