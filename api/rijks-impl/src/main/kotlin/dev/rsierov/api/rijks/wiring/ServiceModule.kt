@@ -9,7 +9,7 @@ import dev.rsierov.api.rijks.RijksArtService
 
 @InstallIn(SingletonComponent::class)
 @Module
-internal interface ServiceModule {
+internal interface ServiceBinderModule {
 
     @Binds
     fun artService(service: RijksArtService): ArtService

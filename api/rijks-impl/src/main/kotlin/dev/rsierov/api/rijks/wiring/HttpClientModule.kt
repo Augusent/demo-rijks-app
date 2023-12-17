@@ -36,8 +36,6 @@ internal class HttpClientModule {
             .build()
         val okHttpConfig = OkHttpConfig().apply {
             preconfigured = okhttp
-            // addNetworkInterceptor(ClientDrivenCacheControl(maxAge = 1.days))
-            // addInterceptor(ForceConnectionlessCache(application))
         }
         return OkHttpEngine(config = okHttpConfig)
     }
