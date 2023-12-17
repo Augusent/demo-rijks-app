@@ -27,6 +27,7 @@ internal class RijksArtService @Inject constructor(
     ): ApiResult<ArtCollectionPage, Unit> {
         return requestExecutor.execute {
             httpClient.get("${apiConfig.baseUrl}/${apiConfig.language}/collection") {
+                parameter("p", page)
                 parameter("key", apiConfig.apiKey)
                 parameter("ps", itemsPerPage ?: apiConfig.itemsPerPage)
                 parameter("s", sortBy.stringify())

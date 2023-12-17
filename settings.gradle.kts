@@ -40,4 +40,5 @@ include(
     ":domain:model",
     ":api:public",
     ":api:rijks-impl",
+    ":data",
 )

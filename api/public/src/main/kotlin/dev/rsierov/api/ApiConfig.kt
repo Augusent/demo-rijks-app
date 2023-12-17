@@ -5,7 +5,7 @@ import java.util.Locale
 data class ApiConfig(
     val baseUrl: String,
     val apiKey: String,
-    val itemsPerPage: Int = 10,
+    val itemsPerPage: Int = 15,
     val locale: () -> Locale,
 )
 

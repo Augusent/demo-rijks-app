@@ -12,11 +12,12 @@ android {
 
 dependencies {
 
+    implementation(projects.data) // temp, todo: remove
     implementation(projects.api.public)
-    implementation(projects.api.rijksImpl) // TODO: temporary, remove
 
     implementation(libs.androidx.appcompat)
     implementation(libs.androidx.activity.compose)
+    implementation(libs.androidx.paging.compose) // temp, todo: remove
     implementation(compose.foundation)
     implementation(compose.material3)
     implementation(compose.runtime)

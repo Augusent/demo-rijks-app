@@ -5,7 +5,7 @@ import kotlinx.serialization.Serializable
 
 @Serializable
 data class ArtObject(
-    @SerialName("principalOrFirstMaker") val principalOrFirstMaker: String = "",
+    @SerialName("principalOrFirstMaker") val principalOrFirstMaker: String,
     @SerialName("webImage") val webImage: WebImage? = null,
     @SerialName("headerImage") val headerImage: HeaderImage,
     @SerialName("objectNumber") val objectNumber: String = "",
