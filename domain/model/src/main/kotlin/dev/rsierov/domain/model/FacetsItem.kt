@@ -8,5 +8,5 @@ data class FacetsItem(
     @SerialName("prettyName") val prettyName: Int = 0,
     @SerialName("otherTerms") val otherTerms: Int = 0,
     @SerialName("name") val name: String = "",
-    @SerialName("facets") val facets: List<FacetsItem>?,
+    @SerialName("facets") val facets: List<FacetsItem>? = null,
 )

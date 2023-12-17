@@ -8,7 +8,17 @@ import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
 
 interface ArtService {
-    suspend fun getArtCollectionPage(page: Int): ApiResult<ArtCollectionPage, Unit>
+    suspend fun getArtCollectionPage(
+        page: Int,
+        sortBy: Sorting = Sorting.Artist,
+        itemsPerPage: Int? = null,
+    ): ApiResult<ArtCollectionPage, Unit>
+}
+
+@Serializable
+enum class Sorting {
+    @SerialName("artist") Artist,
+    @SerialName("relevance") Relevance;
 }
 
 @Serializable
