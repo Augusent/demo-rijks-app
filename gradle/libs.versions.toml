@@ -133,6 +133,8 @@ sqldelight-primitive = { module = "app.cash.sqldelight:primitive-adapters", vers
 
 google-dagger-hilt-compiler = { module = "com.google.dagger:hilt-compiler", version.ref = "dagger-hilt" }
 google-dagger-hilt-android = { module = "com.google.dagger:hilt-android", version.ref = "dagger-hilt" }
+google-dagger-hilt-testing-android = { module = "com.google.dagger:hilt-android-testing", version.ref = "dagger-hilt" }
+google-dagger-hilt-testing-compiler = { module = "com.google.dagger:hilt-android-compiler", version.ref = "dagger-hilt" }
 
 timber = "com.jakewharton.timber:timber:5.0.1"
 

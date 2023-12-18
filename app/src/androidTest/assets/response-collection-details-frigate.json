@@ -1,0 +1,269 @@
+{
+  "elapsedMilliseconds": 157,
+  "artObject": {
+    "links": {
+      "search": "http://www.rijksmuseum.nl/api/nl/collection"
+    },
+    "id": "en-NG-MC-663",
+    "priref": "244479",
+    "objectNumber": "NG-MC-663",
+    "language": "en",
+    "title": "Model of the 32-gun frigate Euridice",
+    "copyrightHolder": null,
+    "webImage": {
+      "guid": "0138dc66-c1d8-4a03-accf-e9bcbe98ed65",
+      "offsetPercentageX": 50,
+      "offsetPercentageY": 50,
+      "width": 2500,
+      "height": 2394,
+      "url": "https://lh3.googleusercontent.com/iRly3-IiVWmC1Wnn74XLyaWMqT0zSGlEBHbTfF_xJlPb9be2sPHe_dL40UviF-f6SBDG33FbkU9hvPIWih00xPqx7KE=s0"
+    },
+    "colors": [
+      {
+        "percentage": 79,
+        "hex": "#E7E5E0"
+      },
+      {
+        "percentage": 8,
+        "hex": " #403020"
+      },
+      {
+        "percentage": 4,
+        "hex": " #9E9275"
+      },
+      {
+        "percentage": 3,
+        "hex": " #BEBAB3"
+      },
+      {
+        "percentage": 3,
+        "hex": " #665642"
+      },
+      {
+        "percentage": 1,
+        "hex": " #100D0B"
+      },
+      {
+        "percentage": 0,
+        "hex": " #E2CD7B"
+      }
+    ],
+    "colorsWithNormalization": [
+      {
+        "originalHex": "#E7E5E0",
+        "normalizedHex": "#FBF6E1"
+      },
+      {
+        "originalHex": " #403020",
+        "normalizedHex": "#000000"
+      },
+      {
+        "originalHex": " #9E9275",
+        "normalizedHex": "#E0CC91"
+      },
+      {
+        "originalHex": " #BEBAB3",
+        "normalizedHex": "#B5BFCC"
+      },
+      {
+        "originalHex": " #665642",
+        "normalizedHex": "#737C84"
+      },
+      {
+        "originalHex": " #100D0B",
+        "normalizedHex": "#000000"
+      },
+      {
+        "originalHex": " #E2CD7B",
+        "normalizedHex": "#E0CC91"
+      }
+    ],
+    "normalizedColors": [
+      {
+        "percentage": 79,
+        "hex": "#DCDCDC"
+      },
+      {
+        "percentage": 11,
+        "hex": " #696969"
+      },
+      {
+        "percentage": 4,
+        "hex": " #D2B48C"
+      },
+      {
+        "percentage": 3,
+        "hex": " #C0C0C0"
+      },
+      {
+        "percentage": 1,
+        "hex": " #000000"
+      },
+      {
+        "percentage": 0,
+        "hex": " #F0E68C"
+      }
+    ],
+    "normalized32Colors": [],
+    "materialsThesaurus": [],
+    "techniquesThesaurus": [],
+    "productionPlacesThesaurus": [],
+    "titles": [
+      "Model of a 32-Gun Frigate"
+    ],
+    "description": "Gepolychromeerd, getuigd blokmodel in twee op ekaar gestapelde helften, in slechte staat. Het model heeft vierentwintig geschutmodellen op het tussendek; het aantal geschutpoorten komt in totaal op vijftig plus nog tien geschutplaatsen op het bovendek. Drie niveau's: onderdek, tussendek, gesloten bakdek en halfdek met loopgangen. Het schegbeeld is een staande vrouw met geheven armen, het galjoen versierd met snijwerk heeft zes gemakken. Gewrongen spiegel, hol wulf met twee poorten, hek van één verdieping met snijwerk van mythologische figuren en ranken; zijgalerijen van één verdieping met wapentrofeeën. Recht roer met vierkante roerkoning, stuurwiel op het halfdek voor de bezaansmast. Het model is uitgerust met twee ankers, een dubbele ankerbeting, twee spillen, twee pompen en een scheepsbel; de regeling is voorzien van kooiverschansing. De zeeg is bijna vlak, twee barkhouten en één reehout. Gepiekt rondspant, de huid onder de waterlijn gekoperd. De grote en bezaansrust zijn doorlopend. Het model heeft een driemasttuig zonder zeilen. Schaal 1:25 (afgeleid).",
+    "labelText": null,
+    "objectTypes": [
+      "ship model",
+      "fully rigged model",
+      "instruction model"
+    ],
+    "objectCollection": [
+      "Navy Model Room"
+    ],
+    "makers": [],
+    "principalMakers": [
+      {
+        "name": "'s Lands Werf Rotterdam",
+        "unFixedName": "'s Lands Werf Rotterdam",
+        "placeOfBirth": null,
+        "dateOfBirth": null,
+        "dateOfBirthPrecision": null,
+        "dateOfDeath": null,
+        "dateOfDeathPrecision": null,
+        "placeOfDeath": null,
+        "occupation": [],
+        "roles": [
+          "model maker"
+        ],
+        "nationality": null,
+        "biography": null,
+        "productionPlaces": [
+          "Rotterdam"
+        ],
+        "qualification": null,
+        "labelDesc": "'s Lands Werf Rotterdam, Rotterdam"
+      }
+    ],
+    "plaqueDescriptionDutch": null,
+    "plaqueDescriptionEnglish": null,
+    "principalMaker": "'s Lands Werf Rotterdam",
+    "artistRole": null,
+    "associations": [],
+    "acquisition": {
+      "method": "transfer",
+      "date": "1883-01-01T00:00:00",
+      "creditLine": null
+    },
+    "exhibitions": [],
+    "materials": [
+      "wood (plant material)",
+      "brass (alloy)",
+      "copper (metal)",
+      "iron (metal)",
+      "rope"
+    ],
+    "techniques": [],
+    "productionPlaces": [
+      "Rotterdam"
+    ],
+    "dating": {
+      "presentingDate": "1802",
+      "sortingDate": 1802,
+      "period": 19,
+      "yearEarly": 1802,
+      "yearLate": 1802
+    },
+    "classification": {
+      "iconClassIdentifier": [
+        "46C213"
+      ],
+      "iconClassDescription": [
+        "ship-model"
+      ],
+      "motifs": [],
+      "events": [],
+      "periods": [
+        "18011801"
+      ],
+      "places": [
+        "Rotterdam"
+      ],
+      "people": [
+        "Euridice (schip)",
+        "Glavimans Jansz., Pieter",
+        "Glavimans, Pieter"
+      ],
+      "objectNumbers": [
+        "NG-MC-663"
+      ]
+    },
+    "hasImage": true,
+    "historicalPersons": [
+      "Euridice (schip)",
+      "Glavimans Jansz., Pieter",
+      "Glavimans, Pieter"
+    ],
+    "inscriptions": [],
+    "documentation": [
+      "Inzoomer object op zaal, 2013 (Nederlands/English)."
+    ],
+    "catRefRPK": [],
+    "principalOrFirstMaker": "'s Lands Werf Rotterdam",
+    "dimensions": [
+      {
+        "unit": "cm",
+        "type": "height",
+        "precision": null,
+        "part": null,
+        "value": "230"
+      },
+      {
+        "unit": "cm",
+        "type": "length",
+        "precision": null,
+        "part": null,
+        "value": "280"
+      },
+      {
+        "unit": "cm",
+        "type": "width",
+        "precision": null,
+        "part": null,
+        "value": "106"
+      }
+    ],
+    "physicalProperties": [],
+    "physicalMedium": "wood, brass, copper, iron, rope, textile and paint",
+    "longTitle": "Model of the 32-gun frigate Euridice, 's Lands Werf Rotterdam, 1802",
+    "subTitle": "h 230cm × l 280cm × w 106cm",
+    "scLabelLine": "designed by Pieter Glavimans (1755–1820), Rotterdam, 1802, wood, brass, copper, iron, rope, textile",
+    "label": {
+      "title": "Model of the 32-gun frigate Euridice",
+      "makerLine": "designed by Pieter Glavimans (1755–1820), Rotterdam, 1802, wood, brass, copper, iron, rope, textile",
+      "description": "This model was used as an instructional aid at the Naval Institute in Rotterdam. Students were required to name and know how to operate and handle the ship’s various parts and rigging. This detailed model provides a fine impression of Dutch naval ships in the early 19th century. It is a copy of the Euridice, which saw service from 1802 to 1847.",
+      "notes": null,
+      "date": "2013-04-02"
+    },
+    "showImage": true,
+    "location": "HG-0.13"
+  },
+  "artObjectPage": {
+    "id": "en-NG-MC-663",
+    "similarPages": [],
+    "lang": "en",
+    "objectNumber": "NG-MC-663",
+    "tags": [],
+    "plaqueDescription": null,
+    "audioFile1": null,
+    "audioFileLabel1": null,
+    "audioFileLabel2": null,
+    "createdOn": "0001-01-01T00:00:00",
+    "updatedOn": "0001-01-01T00:00:00",
+    "adlibOverrides": {
+      "titel": null,
+      "maker": null,
+      "etiketText": null
+    }
+  }
+}

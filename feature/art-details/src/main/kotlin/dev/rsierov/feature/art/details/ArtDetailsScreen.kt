@@ -33,7 +33,7 @@ import javax.inject.Inject
 internal class ArtDetailsScreen @Inject constructor() : Screen {
 
     @Composable
-    override fun Content(navController: NavHostController) {
+    override fun Content(navController: NavHostController, modifier: Modifier) {
         val viewModel = hiltViewModel<ViewModel>()
         val workflow = viewModel.workflow
         val details by workflow.details.collectAsState()
@@ -44,7 +44,7 @@ internal class ArtDetailsScreen @Inject constructor() : Screen {
         ArtDetailsContent(
             details = details,
             onReload = workflow::loadDetails,
-            modifier = Modifier.fillMaxSize()
+            modifier = modifier.fillMaxSize()
         )
     }
 

@@ -1,0 +1,2945 @@
+{
+  "elapsedMilliseconds": 0,
+  "count": 793287,
+  "countFacets": {
+    "hasimage": 594243,
+    "ondisplay": 8509
+  },
+  "artObjects": [
+    {
+      "links": {
+        "self": "http://www.rijksmuseum.nl/api/en/collection/NG-MC-1349-F",
+        "web": "http://www.rijksmuseum.nl/en/collection/NG-MC-1349-F"
+      },
+      "id": "en-NG-MC-1349-F",
+      "objectNumber": "NG-MC-1349-F",
+      "title": "Model of a Buoy",
+      "hasImage": true,
+      "principalOrFirstMaker": "'s Rijks Algemeen Betonningsmagazijn",
+      "longTitle": "Model of a Buoy, 's Rijks Algemeen Betonningsmagazijn, 1873",
+      "showImage": true,
+      "permitDownload": true,
+      "webImage": {
+        "guid": "ffca186d-b236-4155-ae60-c96863ff9693",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 2500,
+        "height": 1684,
+        "url": "https://lh3.googleusercontent.com/M-OdicPVL-QHkHJmFwEvhbEbkCePn-hV84R-a9XZQi2ttwoIe0JSd66O20eQjSOsQUHPO_id_xQGsdk3boTjako3Bg=s0"
+      },
+      "headerImage": {
+        "guid": "53b619e2-d8b3-4227-b38b-e7261b2f5273",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1920,
+        "height": 460,
+        "url": "https://lh3.googleusercontent.com/Mn0nOcl5nNxwVVAGCRk8NmgcIO57hexooL7fFG546-NO3w9JTkrOs0zSOk20TALZH_ovV4_IiNb9_YVUtt0jNRN41w=s0"
+      },
+      "productionPlaces": [
+        "Enkhuizen"
+      ]
+    },
+    {
+      "links": {
+        "self": "http://www.rijksmuseum.nl/api/en/collection/NG-MC-1366-B",
+        "web": "http://www.rijksmuseum.nl/en/collection/NG-MC-1366-B"
+      },
+      "id": "en-NG-MC-1366-B",
+      "objectNumber": "NG-MC-1366-B",
+      "title": "Model of a Buoy",
+      "hasImage": true,
+      "principalOrFirstMaker": "'s Rijks Algemeen Betonningsmagazijn",
+      "longTitle": "Model of a Buoy, 's Rijks Algemeen Betonningsmagazijn (possibly), 1869",
+      "showImage": true,
+      "permitDownload": true,
+      "webImage": {
+        "guid": "36d81cb8-5f61-4a7a-a991-d67bc36d06dc",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 2500,
+        "height": 1539,
+        "url": "https://lh3.googleusercontent.com/X0Ed7OZoXzDShF8x89ZbzenId7UHEwXi3vg7AdXY5vxBxyetU-xVXAUQZIeyIN8uouvoONim_L-XtsRwRhyTOFfFnArp=s0"
+      },
+      "headerImage": {
+        "guid": "86714143-7713-456d-bba7-de9e370e480b",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1920,
+        "height": 460,
+        "url": "https://lh3.googleusercontent.com/jV-0J3gZ9aHm-A3DPWZRwCZeeZ-zSJ1KqKMJ17cbjLMn0t3ZnMUYFUZWeNVn9g6-RqMD89vUBZK667xmHyP2s3koqjwD=s0"
+      },
+      "productionPlaces": [
+        "? Enkhuizen"
+      ]
+    },
+    {
+      "links": {
+        "self": "http://www.rijksmuseum.nl/api/en/collection/NG-MC-1349-D",
+        "web": "http://www.rijksmuseum.nl/en/collection/NG-MC-1349-D"
+      },
+      "id": "en-NG-MC-1349-D",
+      "objectNumber": "NG-MC-1349-D",
+      "title": "Model of a Buoy",
+      "hasImage": true,
+      "principalOrFirstMaker": "'s Rijks Algemeen Betonningsmagazijn",
+      "longTitle": "Model of a Buoy, 's Rijks Algemeen Betonningsmagazijn, 1873",
+      "showImage": true,
+      "permitDownload": true,
+      "webImage": {
+        "guid": "2c853f3e-23d8-4a60-b09f-88f4b1e13b60",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 2500,
+        "height": 1761,
+        "url": "https://lh3.googleusercontent.com/dDCWRXOO7pVaN088cAaLDqTqPY9hi1R2R4vdb41TRI_dbF5-mw8H8_l3__VhGK_hF-ws7AbkA7-1wH_--NbRg5TUvFM=s0"
+      },
+      "headerImage": {
+        "guid": "80d3b6e5-f1ce-4cc0-8773-b153880b0ba8",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1920,
+        "height": 460,
+        "url": "https://lh3.googleusercontent.com/MxQXVzJZOdXdmEhiPhCSHuJuDFf8JuFjDyT6sbmbGnJik8VLnvtuE6MpJwaYRASJMfMdNYJfNYbZKbvb6F4OQwAbrw=s0"
+      },
+      "productionPlaces": [
+        "Enkhuizen"
+      ]
+    },
+    {
+      "links": {
+        "self": "http://www.rijksmuseum.nl/api/en/collection/NG-MC-1349-E",
+        "web": "http://www.rijksmuseum.nl/en/collection/NG-MC-1349-E"
+      },
+      "id": "en-NG-MC-1349-E",
+      "objectNumber": "NG-MC-1349-E",
+      "title": "Model of a Buoy",
+      "hasImage": true,
+      "principalOrFirstMaker": "'s Rijks Algemeen Betonningsmagazijn",
+      "longTitle": "Model of a Buoy, 's Rijks Algemeen Betonningsmagazijn, 1873",
+      "showImage": true,
+      "permitDownload": true,
+      "webImage": {
+        "guid": "d3b24c8a-efc1-468f-9ad9-ea857d5e426d",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 2500,
+        "height": 1760,
+        "url": "https://lh3.googleusercontent.com/bNQAsHiDNsedmZfdKGfi4fNHQx2umGuX0CM4SQyUjJFh6m7IRmOoqT7nthqTolh1bZB_sMXyBFEj95lEkujDF9YY6G4=s0"
+      },
+      "headerImage": {
+        "guid": "06f55676-377f-4993-841f-d1b95b4c1cf5",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1920,
+        "height": 460,
+        "url": "https://lh3.googleusercontent.com/LDVDJBmPbLEZQsAvh_3Tya1Ssn4wlssdsbEhgc9znpMVTDYE5kXrKdDKj5Txi1hG7_umPLFHxpdj-jPBZ5Ca5nukQA=s0"
+      },
+      "productionPlaces": [
+        "Enkhuizen"
+      ]
+    },
+    {
+      "links": {
+        "self": "http://www.rijksmuseum.nl/api/en/collection/NG-MC-1349-B",
+        "web": "http://www.rijksmuseum.nl/en/collection/NG-MC-1349-B"
+      },
+      "id": "en-NG-MC-1349-B",
+      "objectNumber": "NG-MC-1349-B",
+      "title": "Model of a Buoy",
+      "hasImage": true,
+      "principalOrFirstMaker": "'s Rijks Algemeen Betonningsmagazijn",
+      "longTitle": "Model of a Buoy, 's Rijks Algemeen Betonningsmagazijn, 1873",
+      "showImage": true,
+      "permitDownload": true,
+      "webImage": {
+        "guid": "87b92615-d2bc-47ed-a8d6-865ea82df457",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 2500,
+        "height": 1559,
+        "url": "https://lh3.googleusercontent.com/nDrq_ZlI8nh-TwFDD7XwyUoQQIUUj7m8RmqzZWtKrbFcbbhEgsTWXLGddMIS6NEAoWm4J5VbDTQqdEQCsziQbhEuLA=s0"
+      },
+      "headerImage": {
+        "guid": "6c91b54e-823d-4dbf-b7fd-9a249f7fc1cb",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1920,
+        "height": 460,
+        "url": "https://lh3.googleusercontent.com/uJZ1ZbwIQD_C8_LPXeynrx0CBxGZm2YL6Q-lenG9GSgr7BhY85K8affvGatUt7AEGQerRshX-fIMq5C2GS-eak37NAL6=s0"
+      },
+      "productionPlaces": [
+        "Enkhuizen"
+      ]
+    },
+    {
+      "links": {
+        "self": "http://www.rijksmuseum.nl/api/en/collection/NG-MC-1366",
+        "web": "http://www.rijksmuseum.nl/en/collection/NG-MC-1366"
+      },
+      "id": "en-NG-MC-1366",
+      "objectNumber": "NG-MC-1366",
+      "title": "Two Models of Buoys",
+      "hasImage": true,
+      "principalOrFirstMaker": "'s Rijks Algemeen Betonningsmagazijn",
+      "longTitle": "Two Models of Buoys, 's Rijks Algemeen Betonningsmagazijn (possibly), 1873",
+      "showImage": true,
+      "permitDownload": true,
+      "webImage": {
+        "guid": "6332d334-4195-415e-ab35-aa2f085badf3",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 3000,
+        "height": 1950,
+        "url": "https://lh3.googleusercontent.com/vSaLnDG7hudnOtvtGZupWeBwc6fCeeky-bgwmEtmkF-YaOvtaHQnCgOwe9nTo2JfTjCtij-bXCjxdjO2k0wLj4XKgmc=s0"
+      },
+      "headerImage": {
+        "guid": "ad255c75-b4ea-4967-9de0-8c7afb8f5e8e",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1920,
+        "height": 460,
+        "url": "https://lh3.googleusercontent.com/z8OBTur-LiSPELpEhM0D5F_C1RQlaKgxswImuGb1y7CNPvFXJ9bldmnt1g-044uZraeHNQXgOoUYX5gGOi2ba06PQg=s0"
+      },
+      "productionPlaces": [
+        "? Enkhuizen"
+      ]
+    },
+    {
+      "links": {
+        "self": "http://www.rijksmuseum.nl/api/en/collection/NG-MC-1350-E",
+        "web": "http://www.rijksmuseum.nl/en/collection/NG-MC-1350-E"
+      },
+      "id": "en-NG-MC-1350-E",
+      "objectNumber": "NG-MC-1350-E",
+      "title": "Model of a Buoy",
+      "hasImage": true,
+      "principalOrFirstMaker": "'s Rijks Algemeen Betonningsmagazijn",
+      "longTitle": "Model of a Buoy, 's Rijks Algemeen Betonningsmagazijn, 1869 - 1873",
+      "showImage": true,
+      "permitDownload": true,
+      "webImage": {
+        "guid": "6c5eefb1-fd98-4c94-ada5-316d8dad795f",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 2500,
+        "height": 1307,
+        "url": "https://lh3.googleusercontent.com/ULD18YnGURMxccsLHE9nXIOLfb1wiuZ3_oskDKwM_cTl86rS2wqw17MtVmBOHbKUl4X3fMhu-9SKD8gF31zq-Qa3wD8=s0"
+      },
+      "headerImage": {
+        "guid": "0191b78e-54fb-4cb6-9038-63d880853312",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1920,
+        "height": 460,
+        "url": "https://lh3.googleusercontent.com/crsU-lLP9LMuhLFoK3fKWmDQgSEGKecpPy9BRC_To6CHp2KFhbx97ItEowS6D7GijHtde4Pp_029cUXOagaNg-Z7pGg=s0"
+      },
+      "productionPlaces": [
+        "Enkhuizen"
+      ]
+    },
+    {
+      "links": {
+        "self": "http://www.rijksmuseum.nl/api/en/collection/NG-MC-1350-F",
+        "web": "http://www.rijksmuseum.nl/en/collection/NG-MC-1350-F"
+      },
+      "id": "en-NG-MC-1350-F",
+      "objectNumber": "NG-MC-1350-F",
+      "title": "Model of a Buoy",
+      "hasImage": true,
+      "principalOrFirstMaker": "'s Rijks Algemeen Betonningsmagazijn",
+      "longTitle": "Model of a Buoy, 's Rijks Algemeen Betonningsmagazijn, 1869 - 1873",
+      "showImage": true,
+      "permitDownload": true,
+      "webImage": {
+        "guid": "e8a906c8-cba2-4a70-ac31-1d2533dcfe29",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 2500,
+        "height": 1307,
+        "url": "https://lh3.googleusercontent.com/3lQgqHjtqBjoiqy8QfMrPRCYjE8Pg8Y2g-MEn4lwG4MN-pYdGs9gvJ1FhGfXKYZmGB6d92NIg3KJZldcLP52S5pOPKE=s0"
+      },
+      "headerImage": {
+        "guid": "02de3ede-a8b3-41a4-bfd4-d2d77c47c596",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1920,
+        "height": 460,
+        "url": "https://lh3.googleusercontent.com/wtG1Owug9EoRmMyUIyDoH8am9XEiQuGlhLlmvz_KMXY8XQd9wTYxIB--niFY4KP60Awg34KvjxEZu48t5wvS0cZAwA=s0"
+      },
+      "productionPlaces": [
+        "Enkhuizen"
+      ]
+    },
+    {
+      "links": {
+        "self": "http://www.rijksmuseum.nl/api/en/collection/NG-MC-1350-C",
+        "web": "http://www.rijksmuseum.nl/en/collection/NG-MC-1350-C"
+      },
+      "id": "en-NG-MC-1350-C",
+      "objectNumber": "NG-MC-1350-C",
+      "title": "Model of a Buoy",
+      "hasImage": true,
+      "principalOrFirstMaker": "'s Rijks Algemeen Betonningsmagazijn",
+      "longTitle": "Model of a Buoy, 's Rijks Algemeen Betonningsmagazijn, 1869 - 1873",
+      "showImage": true,
+      "permitDownload": true,
+      "webImage": {
+        "guid": "6808ba52-b5ff-4c1e-ac5f-28a3483bd8a1",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 2500,
+        "height": 1307,
+        "url": "https://lh3.googleusercontent.com/Jn717_cJ8w2fH3T3hIt7a2Ps12wOWEJJ-W2GqjDl2lXu-x_KMxswca4z-6skHe-MUUtX0eHbiFGuz9-ZVSKzQWmZ5TCr=s0"
+      },
+      "headerImage": {
+        "guid": "107fe524-4ffa-411d-9d27-674fa5109ef9",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1920,
+        "height": 460,
+        "url": "https://lh3.googleusercontent.com/_ZSEba081FUyfxn-SFOpn_6ACFDAzd_Bk212iOeJal6A-ofHshDkC-s04YDvUBzI9hnUYFu8IrVbr-zCrlyGSKc93A=s0"
+      },
+      "productionPlaces": [
+        "Enkhuizen"
+      ]
+    },
+    {
+      "links": {
+        "self": "http://www.rijksmuseum.nl/api/en/collection/NG-MC-1350-A",
+        "web": "http://www.rijksmuseum.nl/en/collection/NG-MC-1350-A"
+      },
+      "id": "en-NG-MC-1350-A",
+      "objectNumber": "NG-MC-1350-A",
+      "title": "Model of a Buoy",
+      "hasImage": true,
+      "principalOrFirstMaker": "'s Rijks Algemeen Betonningsmagazijn",
+      "longTitle": "Model of a Buoy, 's Rijks Algemeen Betonningsmagazijn, 1869 - 1873",
+      "showImage": true,
+      "permitDownload": true,
+      "webImage": {
+        "guid": "cafcf6c2-6054-445d-8923-73c0ebc5a66c",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 2500,
+        "height": 1307,
+        "url": "https://lh3.googleusercontent.com/Cl2tumv7dg5LH9ElUNfL_0v2L67jc4LYGIts52Cm4yd2sDOrbG-9RrmWXH0u6uA_019SdUayeSayEz_Gu2Audmn13nky=s0"
+      },
+      "headerImage": {
+        "guid": "e2826c87-57b5-46cf-8daa-b2f1d608cbbd",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1920,
+        "height": 460,
+        "url": "https://lh3.googleusercontent.com/Ue228Y5JTLy6S1DTTSalOI6fhhIlfR77K4LRbd4niQquCNN0hzBf6-k-ha3N390ilpkcn2ji3ixHPTu9Yv4U5m7Nx9Q=s0"
+      },
+      "productionPlaces": [
+        "Enkhuizen"
+      ]
+    },
+    {
+      "links": {
+        "self": "http://www.rijksmuseum.nl/api/en/collection/NG-MC-1350-D",
+        "web": "http://www.rijksmuseum.nl/en/collection/NG-MC-1350-D"
+      },
+      "id": "en-NG-MC-1350-D",
+      "objectNumber": "NG-MC-1350-D",
+      "title": "Model of a Buoy",
+      "hasImage": true,
+      "principalOrFirstMaker": "'s Rijks Algemeen Betonningsmagazijn",
+      "longTitle": "Model of a Buoy, 's Rijks Algemeen Betonningsmagazijn, 1869 - 1873",
+      "showImage": true,
+      "permitDownload": true,
+      "webImage": {
+        "guid": "81bc60c8-77cd-4fa1-80c9-68295624d392",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 2500,
+        "height": 1307,
+        "url": "https://lh3.googleusercontent.com/EdUjMnWsQCAiyLXg3RjKQ-OZe1avKH-8wt_Q6hcPCBKRH9Op6YYVnvAYhIfSYawehESNiwefABkE2pK_ZK8VcoqU2A=s0"
+      },
+      "headerImage": {
+        "guid": "40b3748a-fb9e-4100-a50c-11b01e994a58",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1920,
+        "height": 460,
+        "url": "https://lh3.googleusercontent.com/sukcwEo7Ng50Bb5pDGkwCRgLT0W6Rds9gOXFrPH3_QI84cErXsjHzdcNjYmTfQOn465IMISBw7ClxbV5AzKhOEMa5ZA=s0"
+      },
+      "productionPlaces": [
+        "Enkhuizen"
+      ]
+    },
+    {
+      "links": {
+        "self": "http://www.rijksmuseum.nl/api/en/collection/NG-MC-1350-B",
+        "web": "http://www.rijksmuseum.nl/en/collection/NG-MC-1350-B"
+      },
+      "id": "en-NG-MC-1350-B",
+      "objectNumber": "NG-MC-1350-B",
+      "title": "Model of a Buoy",
+      "hasImage": true,
+      "principalOrFirstMaker": "'s Rijks Algemeen Betonningsmagazijn",
+      "longTitle": "Model of a Buoy, 's Rijks Algemeen Betonningsmagazijn, 1869 - 1873",
+      "showImage": true,
+      "permitDownload": true,
+      "webImage": {
+        "guid": "2a4e578a-e288-49aa-8a33-4dc5de9e1f6c",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 2500,
+        "height": 1307,
+        "url": "https://lh3.googleusercontent.com/WhmAzaE4Vg0IalbkgtsMEBNHld5HxKkRs-98sDhAfdmckQCjWol-NF2wN2ba5Wgc2dAlBDlyPdVuDMBQ1q7_9mWvT5M=s0"
+      },
+      "headerImage": {
+        "guid": "887fc1df-4c6c-45b2-9ca5-267fd055cbe8",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1920,
+        "height": 460,
+        "url": "https://lh3.googleusercontent.com/6Vp7D4Tkw8DJHfhjK-wUGluJTt_e9LqVSp1tGZnCFmG3a0wi4nbfOxAZ4Yzo1teLYKGke-w9PVYv7cohYCXrdvKoeh0=s0"
+      },
+      "productionPlaces": [
+        "Enkhuizen"
+      ]
+    },
+    {
+      "links": {
+        "self": "http://www.rijksmuseum.nl/api/en/collection/KOG-MP-2-1452",
+        "web": "http://www.rijksmuseum.nl/en/collection/KOG-MP-2-1452"
+      },
+      "id": "en-KOG-MP-2-1452",
+      "objectNumber": "KOG-MP-2-1452",
+      "title": "Betaalpenning voor Nederlandse strafgevangenissen, vijftig cents, van Woerden",
+      "hasImage": true,
+      "principalOrFirstMaker": "'s Rijks Munt",
+      "longTitle": "Betaalpenning voor Nederlandse strafgevangenissen, vijftig cents, van Woerden, 's Rijks Munt, in or after 1834 - in or before 1861",
+      "showImage": true,
+      "permitDownload": true,
+      "webImage": {
+        "guid": "a15ef6da-37d6-4156-bd08-10183618fe14",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 2500,
+        "height": 1241,
+        "url": "https://lh3.googleusercontent.com/z2FYCRU_M_AbXeKtrnCO_LoIJplYv2oqzrFnvUvG1pW0V8xC3e8JUxxll0E93Pvejr_TtyT4NoVEjwh7W2f7v5abxwJ2X7KQFFYUA5Mp3w=s0"
+      },
+      "headerImage": {
+        "guid": "8ccb780d-88cc-4e49-b502-9cc289c34012",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1920,
+        "height": 460,
+        "url": "https://lh3.googleusercontent.com/sUZzoGwQufu9Vhh4C0TRhy-lTmQ1JDe2BCSM_WGYFdhCTTlQybscQQyCUAdzL-5Q5QjW1cZxEWrRF7BlZVKkyyJkPuM7YrW91LuO8ouu=s0"
+      },
+      "productionPlaces": [
+        "Utrecht"
+      ]
+    },
+    {
+      "links": {
+        "self": "http://www.rijksmuseum.nl/api/en/collection/KOG-MP-2-1466",
+        "web": "http://www.rijksmuseum.nl/en/collection/KOG-MP-2-1466"
+      },
+      "id": "en-KOG-MP-2-1466",
+      "objectNumber": "KOG-MP-2-1466",
+      "title": "Zilveren gaspenning van Gasbedrijf Nieuwer-Amstel",
+      "hasImage": true,
+      "principalOrFirstMaker": "'s Rijks Munt",
+      "longTitle": "Zilveren gaspenning van Gasbedrijf Nieuwer-Amstel, 's Rijks Munt, c. 1895 - c. 1950",
+      "showImage": true,
+      "permitDownload": true,
+      "webImage": {
+        "guid": "0b5ba174-a921-4978-9ca6-c9837a17d428",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 2500,
+        "height": 1241,
+        "url": "https://lh3.googleusercontent.com/p75I_3is8Ys403Foj_mr2asdJ4PbiLNiXxisqsIdGX-KaQV2aD6Mnhe-sZCf12iXG8juBgbWH94rAeY7F-77sft_AkLWBIrpF92UKz8A=s0"
+      },
+      "headerImage": {
+        "guid": "068ce74d-06ae-4fe0-8045-8443b398af23",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1920,
+        "height": 460,
+        "url": "https://lh3.googleusercontent.com/zPPE6i8n8t7Yr9OIc3v3IIEZdb0m2sF692PIqPDvCZRAGEKm1I2ZkH3XH6x-TkTjXJUgQqdDZf2YCE0I0unfJXkwNMj1kRSa_r-Pk5sn7g=s0"
+      },
+      "productionPlaces": [
+        "Utrecht"
+      ]
+    },
+    {
+      "links": {
+        "self": "http://www.rijksmuseum.nl/api/en/collection/KOG-MP-2-0240",
+        "web": "http://www.rijksmuseum.nl/en/collection/KOG-MP-2-0240"
+      },
+      "id": "en-KOG-MP-2-0240",
+      "objectNumber": "KOG-MP-2-0240",
+      "title": "Vijftigjarige herdenking van het verschijnen van kozakken voor Utrecht (Kozakjes-dag) 1863, groot model",
+      "hasImage": true,
+      "principalOrFirstMaker": "'s Rijks Munt",
+      "longTitle": "Vijftigjarige herdenking van het verschijnen van kozakken voor Utrecht (Kozakjes-dag) 1863, groot model, 's Rijks Munt, 1863",
+      "showImage": true,
+      "permitDownload": true,
+      "webImage": {
+        "guid": "41db6c5a-0b1b-49ac-a657-fcad51733667",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 2500,
+        "height": 1241,
+        "url": "https://lh3.googleusercontent.com/KvZViUJuht5Kjv6X04zYdnvauckk-z17_TlHuxE3Q5t4E8a2iZ5dibd7tkYnjBqLJQCXGnPHOSJqK8F9ndKYnT3HySbqP5nBE9lyuBn7=s0"
+      },
+      "headerImage": {
+        "guid": "ca86ad00-1e84-40c2-bd2d-ca266f987983",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1920,
+        "height": 460,
+        "url": "https://lh3.googleusercontent.com/-nbmecdRW4yBEF_E1QahIUNIjh2KZlWTdRuuxRogFwyyp9FFHFudA7dh4FDnE6Pj0lhFhtuXInfrKYsbE5DGLijMGPij5m5acc92Tz0N=s0"
+      },
+      "productionPlaces": [
+        "Utrecht"
+      ]
+    },
+    {
+      "links": {
+        "self": "http://www.rijksmuseum.nl/api/en/collection/KOG-MP-2-0197",
+        "web": "http://www.rijksmuseum.nl/en/collection/KOG-MP-2-0197"
+      },
+      "id": "en-KOG-MP-2-0197",
+      "objectNumber": "KOG-MP-2-0197",
+      "title": "Vijfentwintigjarig bestaan van de Noord- en Zuid-Hollandsche Redding-Maatschappij 1849",
+      "hasImage": true,
+      "principalOrFirstMaker": "'s Rijks Munt",
+      "longTitle": "Vijfentwintigjarig bestaan van de Noord- en Zuid-Hollandsche Redding-Maatschappij 1849, 's Rijks Munt, 1849",
+      "showImage": true,
+      "permitDownload": true,
+      "webImage": {
+        "guid": "975fbfa9-9dba-4735-bda2-365b968a662f",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 2500,
+        "height": 1241,
+        "url": "https://lh3.googleusercontent.com/_W-0pF8l2hR88oy6PUF56tOySs_IEQE7WivyEHWpojDgqQ_-7IEAs5KJe7MJJ3PZsY5tVX_K-gd6x5wdb-rJWGUghw5MUDVXQsmpYdLG=s0"
+      },
+      "headerImage": {
+        "guid": "f74c21e7-cf1d-4537-8ad2-182c605de40c",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1920,
+        "height": 460,
+        "url": "https://lh3.googleusercontent.com/JSUQLAaCwLrXfj-MnQjQ4_nK1l_gp2mgiXdvck5mJmdDCDnqDOemmf_sqxAEcOGq_pR6dJqhqngjr-lu2kQsjPEUocUV5y90vw3FjbAU=s0"
+      },
+      "productionPlaces": [
+        "Utrecht"
+      ]
+    },
+    {
+      "links": {
+        "self": "http://www.rijksmuseum.nl/api/en/collection/KOG-MP-2-0168",
+        "web": "http://www.rijksmuseum.nl/en/collection/KOG-MP-2-0168"
+      },
+      "id": "en-KOG-MP-2-0168",
+      "objectNumber": "KOG-MP-2-0168",
+      "title": "Strooipenning bij de inhuldiging van Koning Willem II te Amsterdam 1840",
+      "hasImage": true,
+      "principalOrFirstMaker": "'s Rijks Munt",
+      "longTitle": "Strooipenning bij de inhuldiging van Koning Willem II te Amsterdam 1840, 's Rijks Munt, 1840",
+      "showImage": true,
+      "permitDownload": true,
+      "webImage": {
+        "guid": "8d47995f-6c2a-4841-8d65-262e6b4bddcd",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 2500,
+        "height": 1241,
+        "url": "https://lh3.googleusercontent.com/T8j6b0_6vgugpcw6rfl6m_vXLD0uTQecAmigLrXI8-kwb-YaqL3OUJDlhcXAy0LZ4LFgvAFTleI9WIXmmog2INNvVCbwC8CO_VpglL_4=s0"
+      },
+      "headerImage": {
+        "guid": "15310762-f925-407c-8d48-cd3aae882def",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1920,
+        "height": 460,
+        "url": "https://lh3.googleusercontent.com/QzhgUz-6xQfRCNlago8FtXZQtbh_-Aa-S8SEdFQ2VKC6R6lxyKpSkk8cQ1J20e9pGY1W9ICZV9o19SnDG_zdYTckTglL_YzAT2ockGr8=s0"
+      },
+      "productionPlaces": [
+        "Utrecht"
+      ]
+    },
+    {
+      "links": {
+        "self": "http://www.rijksmuseum.nl/api/en/collection/KOG-MP-2-0169",
+        "web": "http://www.rijksmuseum.nl/en/collection/KOG-MP-2-0169"
+      },
+      "id": "en-KOG-MP-2-0169",
+      "objectNumber": "KOG-MP-2-0169",
+      "title": "Strooipenning bij de inhuldiging van Koning Willem II te Amsterdam 1840",
+      "hasImage": true,
+      "principalOrFirstMaker": "'s Rijks Munt",
+      "longTitle": "Strooipenning bij de inhuldiging van Koning Willem II te Amsterdam 1840, 's Rijks Munt, 1840",
+      "showImage": true,
+      "permitDownload": true,
+      "webImage": {
+        "guid": "fb66a720-9970-4249-8f5e-bc6378633b5f",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 2500,
+        "height": 1241,
+        "url": "https://lh3.googleusercontent.com/kpS_qPPvCbFfmgs4I4CyoAQFCSSZIGAhpuy1yPfrypaVC9kmmzTfinBKRJfoxlEnwzJkyJrsOjQxbqS598jg-iv2gpeXWzDhE36Z0pVU=s0"
+      },
+      "headerImage": {
+        "guid": "33f3b7af-4b8d-4da8-8959-ff414ff44cff",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1920,
+        "height": 460,
+        "url": "https://lh3.googleusercontent.com/NPkgWjyOrqJX-cJ7UURv_OPp0_gA5AoY2BhykfOQ37QYIE2EWxkOGT3fKnBh-Kne-5N-0A2pIGMqd2VKzi38L2_J-6t5_z4etZbiHoE=s0"
+      },
+      "productionPlaces": [
+        "Utrecht"
+      ]
+    },
+    {
+      "links": {
+        "self": "http://www.rijksmuseum.nl/api/en/collection/KOG-MP-2-0132",
+        "web": "http://www.rijksmuseum.nl/en/collection/KOG-MP-2-0132"
+      },
+      "id": "en-KOG-MP-2-0132",
+      "objectNumber": "KOG-MP-2-0132",
+      "title": "Vijftigjarig bestaan van het Werkhuis te Amsterdam 1832",
+      "hasImage": true,
+      "principalOrFirstMaker": "'s Rijks Munt",
+      "longTitle": "Vijftigjarig bestaan van het Werkhuis te Amsterdam 1832, 's Rijks Munt, 1832",
+      "showImage": true,
+      "permitDownload": true,
+      "webImage": {
+        "guid": "583be210-3503-4d6f-a97e-cfc28abda60e",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 2500,
+        "height": 1241,
+        "url": "https://lh3.googleusercontent.com/w41hbdhHd76bfEbCfBLEQ2OPIr1tF74VUpR2W_C1Icw2oppZEanYft_PSOUANJ0pAfkV7RRrCv2P6iiwkxvwKtiPdLbSVMxn_sWZg9iY=s0"
+      },
+      "headerImage": {
+        "guid": "9a2d3e07-5f04-4965-aca9-664576c5389a",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1920,
+        "height": 460,
+        "url": "https://lh3.googleusercontent.com/JvSRUroAvAMxUnhnN-cFe9F7BWpOegWOWLpuoRgxQe-WvrV-LmfedBVm_MMVm0qR2-zRqbjEenXHv6KDtv_I3hrgXLZsXcCv9Z5fT6c=s0"
+      },
+      "productionPlaces": [
+        "Utrecht"
+      ]
+    },
+    {
+      "links": {
+        "self": "http://www.rijksmuseum.nl/api/en/collection/KOG-MP-2-0258",
+        "web": "http://www.rijksmuseum.nl/en/collection/KOG-MP-2-0258"
+      },
+      "id": "en-KOG-MP-2-0258",
+      "objectNumber": "KOG-MP-2-0258",
+      "title": "Internationale Tentoonstelling te Amsterdam 1869 namens de Vereeniging ter Bevordering van Fabriek en Handwerknijverheid in Nederland",
+      "hasImage": true,
+      "principalOrFirstMaker": "'s Rijks Munt",
+      "longTitle": "Internationale Tentoonstelling te Amsterdam 1869 namens de Vereeniging ter Bevordering van Fabriek en Handwerknijverheid in Nederland, 's Rijks Munt, 1869",
+      "showImage": true,
+      "permitDownload": true,
+      "webImage": {
+        "guid": "5f2252cc-5c9f-41c7-9b4a-d9d72c803931",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 2500,
+        "height": 1241,
+        "url": "https://lh3.googleusercontent.com/cPC0-DtYuGvBkC2mXo_6eE0G3Ljr-fS_H9GiTfZLTZ6RppTPXJOOYbuM9b_j6iHB2_nZQZoZN0FZw0Eczgeg4VFupBlRWYce_DssyPuHUQ=s0"
+      },
+      "headerImage": {
+        "guid": "3d037707-a361-4b9d-b1eb-ba5a568c5bad",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1920,
+        "height": 460,
+        "url": "https://lh3.googleusercontent.com/Fx4cLfLXXnUDWYPaeimbR0_TVn9uIgcF8tTw5_QEV5t0i2kRJ6SD4kfw_yzwpXDErZKtOmxgeBl1CtL8lI9DIhKAGbfMWFCZX41o7WdT=s0"
+      },
+      "productionPlaces": [
+        "Utrecht"
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "facets": [
+        {
+          "key": "anonymous",
+          "value": 197567
+        },
+        {
+          "key": "Ed van der Elsken",
+          "value": 7969
+        },
+        {
+          "key": "George Hendrik Breitner",
+          "value": 5584
+        },
+        {
+          "key": "Jan Luyken",
+          "value": 4897
+        },
+        {
+          "key": "Reinier Vinkeles (I)",
+          "value": 4586
+        },
+        {
+          "key": "unknown",
+          "value": 3534
+        },
+        {
+          "key": "Marius Bauer",
+          "value": 3412
+        },
+        {
+          "key": "Isaac Israels",
+          "value": 2866
+        },
+        {
+          "key": "Willem Witsen",
+          "value": 2680
+        },
+        {
+          "key": "Johannes Tavenraat",
+          "value": 2657
+        },
+        {
+          "key": "Daniel Nikolaus Chodowiecki",
+          "value": 2489
+        },
+        {
+          "key": "Aat Veldhoen",
+          "value": 2482
+        },
+        {
+          "key": "Bernard Picart",
+          "value": 2395
+        },
+        {
+          "key": "Vincent Samuel Mentzel",
+          "value": 2354
+        },
+        {
+          "key": "Johan Braakensiek",
+          "value": 2220
+        },
+        {
+          "key": "anoniem (Monumentenzorg)",
+          "value": 2045
+        },
+        {
+          "key": "Jacob Houbraken",
+          "value": 1954
+        },
+        {
+          "key": "Antonio Tempesta",
+          "value": 1919
+        },
+        {
+          "key": "Carel Adolph Lion Cachet",
+          "value": 1796
+        },
+        {
+          "key": "Henk Pander",
+          "value": 1793
+        },
+        {
+          "key": "Simon Fokke",
+          "value": 1559
+        },
+        {
+          "key": "Rembrandt van Rijn",
+          "value": 1557
+        },
+        {
+          "key": "Romeyn de Hooghe",
+          "value": 1330
+        },
+        {
+          "key": "Philips Galle",
+          "value": 1314
+        },
+        {
+          "key": "Richard Nicolaüs Roland Holst",
+          "value": 1294
+        },
+        {
+          "key": "Sébastien Leclerc (I)",
+          "value": 1266
+        },
+        {
+          "key": "Meissener Porzellan Manufaktur",
+          "value": 1227
+        },
+        {
+          "key": "Jan Veth",
+          "value": 1217
+        },
+        {
+          "key": "Gerrit Willem Dijsselhof",
+          "value": 1207
+        },
+        {
+          "key": "Jozef Israëls",
+          "value": 1193
+        },
+        {
+          "key": "Willem Diepraam",
+          "value": 1186
+        },
+        {
+          "key": "Johan Michaël Schmidt Crans",
+          "value": 1175
+        },
+        {
+          "key": "Nicolaas Wijnberg",
+          "value": 1152
+        },
+        {
+          "key": "Wenceslaus Hollar",
+          "value": 1143
+        },
+        {
+          "key": "Frans Hogenberg",
+          "value": 1133
+        },
+        {
+          "key": "Crispijn van de Passe (I)",
+          "value": 1130
+        },
+        {
+          "key": "Jacques de Gheyn (II)",
+          "value": 1115
+        },
+        {
+          "key": "Leo Gestel",
+          "value": 1051
+        },
+        {
+          "key": "Hendrik Spilman",
+          "value": 1028
+        },
+        {
+          "key": "Stefano della Bella",
+          "value": 1021
+        },
+        {
+          "key": "Caspar Luyken",
+          "value": 1018
+        },
+        {
+          "key": "Jeanne Bieruma Oosting",
+          "value": 1007
+        },
+        {
+          "key": "Michel Wolgemut",
+          "value": 1002
+        },
+        {
+          "key": "Hendrick Goltzius",
+          "value": 996
+        },
+        {
+          "key": "Adriaen Collaert",
+          "value": 983
+        },
+        {
+          "key": "Anton Mauve",
+          "value": 983
+        },
+        {
+          "key": "Johann Sadeler (I)",
+          "value": 974
+        },
+        {
+          "key": "Reinier Willem Petrus de Vries (1874-1953)",
+          "value": 959
+        },
+        {
+          "key": "Virgilius Solis",
+          "value": 957
+        },
+        {
+          "key": "Jacques Callot",
+          "value": 944
+        },
+        {
+          "key": "Pieter Schenk (I)",
+          "value": 941
+        },
+        {
+          "key": "diverse vervaardigers",
+          "value": 914
+        },
+        {
+          "key": "Cornelis Vreedenburgh",
+          "value": 913
+        },
+        {
+          "key": "Hendrik Herman van den Berg",
+          "value": 910
+        },
+        {
+          "key": "Jan van de Velde (II)",
+          "value": 908
+        },
+        {
+          "key": "Carel Nicolaas Storm van 's-Gravesande",
+          "value": 888
+        },
+        {
+          "key": "Christoffel van Sichem (II)",
+          "value": 879
+        },
+        {
+          "key": "Theo van Hoytema",
+          "value": 878
+        },
+        {
+          "key": "veuve Delpech (Naudet)",
+          "value": 857
+        },
+        {
+          "key": "Anselmus Boëtius de Boodt",
+          "value": 835
+        },
+        {
+          "key": "Israël Silvestre",
+          "value": 822
+        },
+        {
+          "key": "Georg Rueter",
+          "value": 812
+        },
+        {
+          "key": "Jan Caspar Philips",
+          "value": 807
+        },
+        {
+          "key": "Johannes of Lucas van Doetechum",
+          "value": 800
+        },
+        {
+          "key": "August Allebé",
+          "value": 793
+        },
+        {
+          "key": "Reijer Stolk",
+          "value": 783
+        },
+        {
+          "key": "Willem Cornelis Rip",
+          "value": 778
+        },
+        {
+          "key": "Eva Charlotte Pennink-Boelen",
+          "value": 768
+        },
+        {
+          "key": "Simon Frisius",
+          "value": 752
+        },
+        {
+          "key": "Hendrik Doijer",
+          "value": 745
+        },
+        {
+          "key": "Abraham Rademaker",
+          "value": 738
+        },
+        {
+          "key": "Giorgio Sommer",
+          "value": 736
+        },
+        {
+          "key": "Manufactuur Oud-Loosdrecht",
+          "value": 713
+        },
+        {
+          "key": "Martin Bernigeroth",
+          "value": 709
+        },
+        {
+          "key": "Claude Mellan",
+          "value": 705
+        },
+        {
+          "key": "Charles Donker",
+          "value": 698
+        },
+        {
+          "key": "Crispijn van de Passe (II)",
+          "value": 697
+        },
+        {
+          "key": "Pam Georg Rueter",
+          "value": 691
+        },
+        {
+          "key": "Carel Christiaan Antony Last",
+          "value": 688
+        },
+        {
+          "key": "Albert Greiner",
+          "value": 684
+        },
+        {
+          "key": "Jacob Ernst Marcus",
+          "value": 676
+        },
+        {
+          "key": "Jan Punt",
+          "value": 667
+        },
+        {
+          "key": "Norbert van den Berg (1901-1972)",
+          "value": 660
+        },
+        {
+          "key": "Henry Pauw van Wieldrecht",
+          "value": 658
+        },
+        {
+          "key": "Hieronymus Wierix",
+          "value": 656
+        },
+        {
+          "key": "Giovanni Battista Piranesi",
+          "value": 648
+        },
+        {
+          "key": "Jean Lepautre",
+          "value": 648
+        },
+        {
+          "key": "Karel Wetselaar",
+          "value": 646
+        },
+        {
+          "key": "Delizy",
+          "value": 629
+        },
+        {
+          "key": "Neue Photographische Gesellschaft",
+          "value": 625
+        },
+        {
+          "key": "Claes Jansz. Visscher (II)",
+          "value": 621
+        },
+        {
+          "key": "Anthonie van den Bos",
+          "value": 620
+        },
+        {
+          "key": "Johannes Josephus Aarts",
+          "value": 617
+        },
+        {
+          "key": "Johannes Wierix",
+          "value": 615
+        },
+        {
+          "key": "Geldolph Adriaan Kessler (Dolph)",
+          "value": 612
+        },
+        {
+          "key": "Antoon Derkinderen",
+          "value": 610
+        },
+        {
+          "key": "Woodbury & Page",
+          "value": 600
+        },
+        {
+          "key": "Peter Vos",
+          "value": 595
+        },
+        {
+          "key": "Isaac Weissenbruch",
+          "value": 594
+        },
+        {
+          "key": "Jacob Folkema",
+          "value": 592
+        }
+      ],
+      "name": "principalMaker",
+      "otherTerms": 788793,
+      "prettyName": 10
+    },
+    {
+      "facets": [
+        {
+          "key": "print",
+          "value": 354523
+        },
+        {
+          "key": "photograph",
+          "value": 130445
+        },
+        {
+          "key": "drawing",
+          "value": 51832
+        },
+        {
+          "key": "photomechanical print",
+          "value": 42257
+        },
+        {
+          "key": "carte-de-visite",
+          "value": 17186
+        },
+        {
+          "key": "letter",
+          "value": 11334
+        },
+        {
+          "key": "stereograph",
+          "value": 10663
+        },
+        {
+          "key": "poster",
+          "value": 8528
+        },
+        {
+          "key": "history medal",
+          "value": 5827
+        },
+        {
+          "key": "painting",
+          "value": 4819
+        },
+        {
+          "key": "coin",
+          "value": 4764
+        },
+        {
+          "key": "cabinet photograph",
+          "value": 4700
+        },
+        {
+          "key": "book",
+          "value": 4175
+        },
+        {
+          "key": "documentary photographs",
+          "value": 3393
+        },
+        {
+          "key": "text sheet",
+          "value": 3392
+        },
+        {
+          "key": "fragment",
+          "value": 2482
+        },
+        {
+          "key": "plate (dishes)",
+          "value": 2239
+        },
+        {
+          "key": "jeton",
+          "value": 1990
+        },
+        {
+          "key": "magazine",
+          "value": 1714
+        },
+        {
+          "key": "medal",
+          "value": 1684
+        },
+        {
+          "key": "sculpture",
+          "value": 1653
+        },
+        {
+          "key": "furniture",
+          "value": 1383
+        },
+        {
+          "key": "frame",
+          "value": 1376
+        },
+        {
+          "key": "lid",
+          "value": 1337
+        },
+        {
+          "key": "lantern slide (photographic)",
+          "value": 1305
+        },
+        {
+          "key": "manuscript",
+          "value": 1280
+        },
+        {
+          "key": "vase",
+          "value": 1025
+        },
+        {
+          "key": "bowl",
+          "value": 1010
+        },
+        {
+          "key": "box",
+          "value": 921
+        },
+        {
+          "key": "tile",
+          "value": 906
+        },
+        {
+          "key": "service (set)",
+          "value": 752
+        },
+        {
+          "key": "tissue stereograph",
+          "value": 747
+        },
+        {
+          "key": "collage (visual work)",
+          "value": 720
+        },
+        {
+          "key": "musical instrument",
+          "value": 685
+        },
+        {
+          "key": "miniature",
+          "value": 632
+        },
+        {
+          "key": "figure",
+          "value": 629
+        },
+        {
+          "key": "dish",
+          "value": 627
+        },
+        {
+          "key": "document",
+          "value": 609
+        },
+        {
+          "key": "pot",
+          "value": 600
+        },
+        {
+          "key": "demonstration model",
+          "value": 586
+        },
+        {
+          "key": "jewellery",
+          "value": 568
+        },
+        {
+          "key": "contact print",
+          "value": 543
+        },
+        {
+          "key": "poem",
+          "value": 529
+        },
+        {
+          "key": "ribbon (material)",
+          "value": 513
+        },
+        {
+          "key": "light (window)",
+          "value": 505
+        },
+        {
+          "key": "ship model",
+          "value": 503
+        },
+        {
+          "key": "Indian miniature",
+          "value": 459
+        },
+        {
+          "key": "spoon",
+          "value": 439
+        },
+        {
+          "key": "siege coin",
+          "value": 430
+        },
+        {
+          "key": "award medal",
+          "value": 424
+        },
+        {
+          "key": "brooch",
+          "value": 421
+        },
+        {
+          "key": "braid",
+          "value": 418
+        },
+        {
+          "key": "candlestick",
+          "value": 404
+        },
+        {
+          "key": "copy",
+          "value": 397
+        },
+        {
+          "key": "button",
+          "value": 376
+        },
+        {
+          "key": "playing card",
+          "value": 361
+        },
+        {
+          "key": "half model",
+          "value": 340
+        },
+        {
+          "key": "decorated paper",
+          "value": 339
+        },
+        {
+          "key": "color slide",
+          "value": 323
+        },
+        {
+          "key": "goblet",
+          "value": 321
+        },
+        {
+          "key": "scrapbook",
+          "value": 321
+        },
+        {
+          "key": "album",
+          "value": 311
+        },
+        {
+          "key": "builder's model",
+          "value": 310
+        },
+        {
+          "key": "chandelier",
+          "value": 308
+        },
+        {
+          "key": "Oriental rug",
+          "value": 307
+        },
+        {
+          "key": "brocade paper",
+          "value": 305
+        },
+        {
+          "key": "miniature (painting)",
+          "value": 302
+        },
+        {
+          "key": "Ektachrome",
+          "value": 300
+        },
+        {
+          "key": "wind instrument",
+          "value": 298
+        },
+        {
+          "key": "cup",
+          "value": 297
+        },
+        {
+          "key": "flintlock pistol",
+          "value": 296
+        },
+        {
+          "key": "gameboard",
+          "value": 284
+        },
+        {
+          "key": "postage stamp",
+          "value": 283
+        },
+        {
+          "key": "tureen",
+          "value": 280
+        },
+        {
+          "key": "chest",
+          "value": 260
+        },
+        {
+          "key": "calligraphy",
+          "value": 251
+        },
+        {
+          "key": "pipe",
+          "value": 251
+        },
+        {
+          "key": "calendar",
+          "value": 250
+        },
+        {
+          "key": "marbled paper",
+          "value": 243
+        },
+        {
+          "key": "sample",
+          "value": 243
+        },
+        {
+          "key": "table",
+          "value": 226
+        },
+        {
+          "key": "brochure",
+          "value": 223
+        },
+        {
+          "key": "hat",
+          "value": 221
+        },
+        {
+          "key": "photomontage",
+          "value": 221
+        },
+        {
+          "key": "textile materials",
+          "value": 221
+        },
+        {
+          "key": "percussion instrument",
+          "value": 214
+        },
+        {
+          "key": "salt (condiment vessel)",
+          "value": 174
+        },
+        {
+          "key": "case",
+          "value": 169
+        },
+        {
+          "key": "cloth",
+          "value": 168
+        },
+        {
+          "key": "printed matter",
+          "value": 167
+        },
+        {
+          "key": "relief (sculpture)",
+          "value": 165
+        },
+        {
+          "key": "folder (container)",
+          "value": 163
+        },
+        {
+          "key": "locket",
+          "value": 163
+        },
+        {
+          "key": "card game",
+          "value": 153
+        },
+        {
+          "key": "necklace",
+          "value": 147
+        },
+        {
+          "key": "pedestal",
+          "value": 147
+        },
+        {
+          "key": "tea service",
+          "value": 146
+        },
+        {
+          "key": "part",
+          "value": 145
+        },
+        {
+          "key": "pendant (jewelry)",
+          "value": 141
+        },
+        {
+          "key": "portfolio",
+          "value": 141
+        }
+      ],
+      "name": "type",
+      "otherTerms": 0,
+      "prettyName": 3
+    },
+    {
+      "facets": [
+        {
+          "key": "19",
+          "value": 293674
+        },
+        {
+          "key": "20",
+          "value": 173070
+        },
+        {
+          "key": "18",
+          "value": 130094
+        },
+        {
+          "key": "17",
+          "value": 126460
+        },
+        {
+          "key": "16",
+          "value": 48692
+        },
+        {
+          "key": "21",
+          "value": 10964
+        },
+        {
+          "key": "15",
+          "value": 5356
+        },
+        {
+          "key": "14",
+          "value": 1991
+        },
+        {
+          "key": "-2",
+          "value": 1364
+        },
+        {
+          "key": "13",
+          "value": 399
+        },
+        {
+          "key": "12",
+          "value": 389
+        },
+        {
+          "key": "-1",
+          "value": 159
+        },
+        {
+          "key": "10",
+          "value": 139
+        },
+        {
+          "key": "11",
+          "value": 121
+        },
+        {
+          "key": "9",
+          "value": 110
+        },
+        {
+          "key": "7",
+          "value": 60
+        },
+        {
+          "key": "8",
+          "value": 51
+        },
+        {
+          "key": "3",
+          "value": 45
+        },
+        {
+          "key": "2",
+          "value": 41
+        },
+        {
+          "key": "6",
+          "value": 38
+        },
+        {
+          "key": "5",
+          "value": 29
+        },
+        {
+          "key": "1",
+          "value": 24
+        },
+        {
+          "key": "4",
+          "value": 16
+        },
+        {
+          "key": "35",
+          "value": 1
+        }
+      ],
+      "name": "dating.period",
+      "otherTerms": 0,
+      "prettyName": 4
+    },
+    {
+      "facets": [
+        {
+          "key": "Amsterdam",
+          "value": 100225
+        },
+        {
+          "key": "Netherlands",
+          "value": 66211
+        },
+        {
+          "key": "Paris",
+          "value": 52486
+        },
+        {
+          "key": "The Hague",
+          "value": 24158
+        },
+        {
+          "key": "France",
+          "value": 21757
+        },
+        {
+          "key": "Antwerp",
+          "value": 19464
+        },
+        {
+          "key": "Northern Netherlands",
+          "value": 17453
+        },
+        {
+          "key": "Italy",
+          "value": 15645
+        },
+        {
+          "key": "London",
+          "value": 15590
+        },
+        {
+          "key": "Haarlem",
+          "value": 11064
+        },
+        {
+          "key": "Rome",
+          "value": 10585
+        },
+        {
+          "key": "Germany",
+          "value": 9124
+        },
+        {
+          "key": "Berlin",
+          "value": 9020
+        },
+        {
+          "key": "Leiden",
+          "value": 8207
+        },
+        {
+          "key": "Japan",
+          "value": 7955
+        },
+        {
+          "key": "Brussels",
+          "value": 7645
+        },
+        {
+          "key": "Utrecht",
+          "value": 7625
+        },
+        {
+          "key": "Rotterdam",
+          "value": 6802
+        },
+        {
+          "key": "? Netherlands",
+          "value": 4602
+        },
+        {
+          "key": "Low Countries",
+          "value": 4462
+        },
+        {
+          "key": "China",
+          "value": 4453
+        },
+        {
+          "key": "Delft",
+          "value": 4348
+        },
+        {
+          "key": "Augsburg",
+          "value": 4179
+        },
+        {
+          "key": "England",
+          "value": 4120
+        },
+        {
+          "key": "Southern Netherlands",
+          "value": 3706
+        },
+        {
+          "key": "Venice",
+          "value": 3435
+        },
+        {
+          "key": "unknown",
+          "value": 3140
+        },
+        {
+          "key": "Vienna",
+          "value": 2912
+        },
+        {
+          "key": "Cologne",
+          "value": 2890
+        },
+        {
+          "key": "? France",
+          "value": 2847
+        },
+        {
+          "key": "Dordrecht",
+          "value": 2742
+        },
+        {
+          "key": "? Amsterdam",
+          "value": 2536
+        },
+        {
+          "key": "New York (city)",
+          "value": 2518
+        },
+        {
+          "key": "Belgium",
+          "value": 2501
+        },
+        {
+          "key": "Europe",
+          "value": 2496
+        },
+        {
+          "key": "Arnhem",
+          "value": 2488
+        },
+        {
+          "key": "Suriname",
+          "value": 2413
+        },
+        {
+          "key": "United States of America",
+          "value": 1885
+        },
+        {
+          "key": "? Germany",
+          "value": 1862
+        },
+        {
+          "key": "Middelburg",
+          "value": 1406
+        },
+        {
+          "key": "Nijmegen",
+          "value": 1405
+        },
+        {
+          "key": "Sumatra",
+          "value": 1224
+        },
+        {
+          "key": "Java",
+          "value": 1177
+        },
+        {
+          "key": "Austria",
+          "value": 1150
+        },
+        {
+          "key": "Maastricht",
+          "value": 1093
+        },
+        {
+          "key": "Dutch East Indies, The",
+          "value": 1066
+        },
+        {
+          "key": "Indonesia",
+          "value": 1065
+        },
+        {
+          "key": "Spain",
+          "value": 1039
+        },
+        {
+          "key": "? Paris",
+          "value": 970
+        },
+        {
+          "key": "Switzerland",
+          "value": 948
+        },
+        {
+          "key": "Den Bosch",
+          "value": 925
+        },
+        {
+          "key": "Batavia",
+          "value": 859
+        },
+        {
+          "key": "? The Hague",
+          "value": 828
+        },
+        {
+          "key": "Great Britain",
+          "value": 767
+        },
+        {
+          "key": "Naples",
+          "value": 750
+        },
+        {
+          "key": "Deventer",
+          "value": 715
+        },
+        {
+          "key": "Surabaya",
+          "value": 688
+        },
+        {
+          "key": "Bruges",
+          "value": 669
+        },
+        {
+          "key": "United Kingdom",
+          "value": 650
+        },
+        {
+          "key": "? Northern Netherlands",
+          "value": 634
+        },
+        {
+          "key": "? Italy",
+          "value": 616
+        },
+        {
+          "key": "Ghent",
+          "value": 609
+        },
+        {
+          "key": "Kyoto",
+          "value": 575
+        },
+        {
+          "key": "Gouda",
+          "value": 544
+        },
+        {
+          "key": "French Equatorial Africa",
+          "value": 536
+        },
+        {
+          "key": "Lyon",
+          "value": 530
+        },
+        {
+          "key": "Mechelen",
+          "value": 524
+        },
+        {
+          "key": "Liège",
+          "value": 514
+        },
+        {
+          "key": "Pompeii",
+          "value": 437
+        },
+        {
+          "key": "Hoorn (North Holland)",
+          "value": 429
+        },
+        {
+          "key": "Copenhagen (city)",
+          "value": 407
+        },
+        {
+          "key": "? Belgium",
+          "value": 401
+        },
+        {
+          "key": "Norway",
+          "value": 356
+        },
+        {
+          "key": "Voorschoten",
+          "value": 344
+        },
+        {
+          "key": "Enkhuizen",
+          "value": 334
+        },
+        {
+          "key": "Flushing",
+          "value": 330
+        },
+        {
+          "key": "Russia",
+          "value": 323
+        },
+        {
+          "key": "? England",
+          "value": 319
+        },
+        {
+          "key": "? New York (city)",
+          "value": 310
+        },
+        {
+          "key": "? Brussels",
+          "value": 299
+        },
+        {
+          "key": "? Antwerp",
+          "value": 294
+        },
+        {
+          "key": "? Southern Netherlands",
+          "value": 288
+        },
+        {
+          "key": "New York",
+          "value": 285
+        },
+        {
+          "key": "Poland",
+          "value": 269
+        },
+        {
+          "key": "Birmingham",
+          "value": 267
+        },
+        {
+          "key": "Glasgow",
+          "value": 262
+        },
+        {
+          "key": "Lille",
+          "value": 262
+        },
+        {
+          "key": "Cleves",
+          "value": 258
+        },
+        {
+          "key": "Zwickau",
+          "value": 258
+        },
+        {
+          "key": "Sri Lanka",
+          "value": 250
+        },
+        {
+          "key": "Holland",
+          "value": 235
+        },
+        {
+          "key": "Marseille",
+          "value": 235
+        },
+        {
+          "key": "Zeist",
+          "value": 227
+        },
+        {
+          "key": "Denmark",
+          "value": 204
+        },
+        {
+          "key": "? London",
+          "value": 200
+        },
+        {
+          "key": "Louvain",
+          "value": 196
+        },
+        {
+          "key": "Singapore",
+          "value": 192
+        },
+        {
+          "key": "? Java",
+          "value": 187
+        },
+        {
+          "key": "? Haarlem",
+          "value": 179
+        },
+        {
+          "key": "Gelderland",
+          "value": 174
+        }
+      ],
+      "name": "place",
+      "otherTerms": 0,
+      "prettyName": 2
+    },
+    {
+      "facets": [
+        {
+          "key": "paper",
+          "value": 565950
+        },
+        {
+          "key": "photographic support",
+          "value": 88786
+        },
+        {
+          "key": "cardboard",
+          "value": 81147
+        },
+        {
+          "key": "ink",
+          "value": 44493
+        },
+        {
+          "key": "pencil",
+          "value": 40891
+        },
+        {
+          "key": "chalk",
+          "value": 29251
+        },
+        {
+          "key": "baryta paper",
+          "value": 24271
+        },
+        {
+          "key": "watercolor (paint)",
+          "value": 13348
+        },
+        {
+          "key": "silver (metal)",
+          "value": 11143
+        },
+        {
+          "key": "linen (material)",
+          "value": 10072
+        },
+        {
+          "key": "glass",
+          "value": 9505
+        },
+        {
+          "key": "wood (plant material)",
+          "value": 9416
+        },
+        {
+          "key": "porcelain",
+          "value": 8927
+        },
+        {
+          "key": "copper (metal)",
+          "value": 8484
+        },
+        {
+          "key": "glaze",
+          "value": 7171
+        },
+        {
+          "key": "silk",
+          "value": 5329
+        },
+        {
+          "key": "oil paint (paint)",
+          "value": 5166
+        },
+        {
+          "key": "printing ink",
+          "value": 5162
+        },
+        {
+          "key": "gold (metal)",
+          "value": 5017
+        },
+        {
+          "key": "deck paint",
+          "value": 4976
+        },
+        {
+          "key": "earthenware",
+          "value": 4601
+        },
+        {
+          "key": "India ink (ink)",
+          "value": 4432
+        },
+        {
+          "key": "RC paper",
+          "value": 4107
+        },
+        {
+          "key": "bronze (metal)",
+          "value": 3999
+        },
+        {
+          "key": "iron (metal)",
+          "value": 3898
+        },
+        {
+          "key": "metal",
+          "value": 3735
+        },
+        {
+          "key": "brass (alloy)",
+          "value": 3517
+        },
+        {
+          "key": "cotton (textile)",
+          "value": 3036
+        },
+        {
+          "key": "leather",
+          "value": 2969
+        },
+        {
+          "key": "canvas",
+          "value": 2656
+        },
+        {
+          "key": "paint (coating)",
+          "value": 2652
+        },
+        {
+          "key": "Japanese paper (handmade paper)",
+          "value": 2590
+        },
+        {
+          "key": "cobalt (mineral)",
+          "value": 2291
+        },
+        {
+          "key": "panel",
+          "value": 1952
+        },
+        {
+          "key": "oak (wood)",
+          "value": 1650
+        },
+        {
+          "key": "tin glaze",
+          "value": 1584
+        },
+        {
+          "key": "lead (metal)",
+          "value": 1452
+        },
+        {
+          "key": "wool",
+          "value": 1451
+        },
+        {
+          "key": "gouache (paint)",
+          "value": 1425
+        },
+        {
+          "key": "parchment (animal material)",
+          "value": 1412
+        },
+        {
+          "key": "tin (metal)",
+          "value": 1410
+        },
+        {
+          "key": "stoneware",
+          "value": 1405
+        },
+        {
+          "key": "graphite (mineral)",
+          "value": 1378
+        },
+        {
+          "key": "transparant paper",
+          "value": 1343
+        },
+        {
+          "key": "gilding (material)",
+          "value": 1304
+        },
+        {
+          "key": "velvet (fabric weave)",
+          "value": 1247
+        },
+        {
+          "key": "ivory",
+          "value": 1115
+        },
+        {
+          "key": "tracing paper",
+          "value": 1020
+        },
+        {
+          "key": "gold leaf",
+          "value": 948
+        },
+        {
+          "key": "lacquer (coating)",
+          "value": 786
+        },
+        {
+          "key": "prepared paper",
+          "value": 758
+        },
+        {
+          "key": "walnut (hardwood)",
+          "value": 756
+        },
+        {
+          "key": "Japanese paper",
+          "value": 722
+        },
+        {
+          "key": "rope",
+          "value": 646
+        },
+        {
+          "key": "plastic (organic material)",
+          "value": 578
+        },
+        {
+          "key": "pipe clay",
+          "value": 567
+        },
+        {
+          "key": "ebony (wood)",
+          "value": 555
+        },
+        {
+          "key": "newsprint",
+          "value": 539
+        },
+        {
+          "key": "celluloid (cellulosic)",
+          "value": 538
+        },
+        {
+          "key": "photographic film (photographic materials)",
+          "value": 497
+        },
+        {
+          "key": "mother of pearl",
+          "value": 483
+        },
+        {
+          "key": "pressure-sensitive tape",
+          "value": 480
+        },
+        {
+          "key": "satin",
+          "value": 474
+        },
+        {
+          "key": "lead glaze",
+          "value": 454
+        },
+        {
+          "key": "marble (rock)",
+          "value": 447
+        },
+        {
+          "key": "bone china (material)",
+          "value": 436
+        },
+        {
+          "key": "mahogany (wood)",
+          "value": 425
+        },
+        {
+          "key": "zinc",
+          "value": 383
+        },
+        {
+          "key": "ball-point pens",
+          "value": 382
+        },
+        {
+          "key": "terracotta (clay material)",
+          "value": 357
+        },
+        {
+          "key": "bone (material)",
+          "value": 350
+        },
+        {
+          "key": "silver thread",
+          "value": 336
+        },
+        {
+          "key": "batiste",
+          "value": 329
+        },
+        {
+          "key": "rosewood (wood)",
+          "value": 322
+        },
+        {
+          "key": "steel (alloy)",
+          "value": 308
+        },
+        {
+          "key": "aluminum (metal)",
+          "value": 277
+        },
+        {
+          "key": "marbled paper",
+          "value": 256
+        },
+        {
+          "key": "cloth",
+          "value": 250
+        },
+        {
+          "key": "pine (wood)",
+          "value": 250
+        },
+        {
+          "key": "beech (wood)",
+          "value": 246
+        },
+        {
+          "key": "tin plate",
+          "value": 241
+        },
+        {
+          "key": "linden",
+          "value": 232
+        },
+        {
+          "key": "gypsum",
+          "value": 222
+        },
+        {
+          "key": "corrugated board",
+          "value": 214
+        },
+        {
+          "key": "maple (wood)",
+          "value": 213
+        },
+        {
+          "key": "horn (animal material)",
+          "value": 211
+        },
+        {
+          "key": "watercolor paper",
+          "value": 204
+        },
+        {
+          "key": "boxwood",
+          "value": 201
+        },
+        {
+          "key": "sandstone",
+          "value": 192
+        },
+        {
+          "key": "blotting paper",
+          "value": 186
+        },
+        {
+          "key": "China paper",
+          "value": 182
+        },
+        {
+          "key": "engobe",
+          "value": 177
+        },
+        {
+          "key": "silver stain",
+          "value": 174
+        },
+        {
+          "key": "diamond (mineral)",
+          "value": 164
+        },
+        {
+          "key": "felt (textile)",
+          "value": 157
+        },
+        {
+          "key": "nickel (metal)",
+          "value": 157
+        },
+        {
+          "key": "pearl",
+          "value": 147
+        },
+        {
+          "key": "mockado",
+          "value": 145
+        },
+        {
+          "key": "wax",
+          "value": 143
+        },
+        {
+          "key": "imitation leather",
+          "value": 141
+        }
+      ],
+      "name": "material",
+      "otherTerms": 0,
+      "prettyName": 5
+    },
+    {
+      "facets": [
+        {
+          "key": "etching",
+          "value": 184434
+        },
+        {
+          "key": "engraving",
+          "value": 135281
+        },
+        {
+          "key": "albumen print",
+          "value": 62300
+        },
+        {
+          "key": "gelatin silver print",
+          "value": 44525
+        },
+        {
+          "key": "pen",
+          "value": 42170
+        },
+        {
+          "key": "letterpress printing",
+          "value": 34187
+        },
+        {
+          "key": "brush",
+          "value": 31969
+        },
+        {
+          "key": "collotype",
+          "value": 21583
+        },
+        {
+          "key": "writing (processes)",
+          "value": 20676
+        },
+        {
+          "key": "striking (metalworking)",
+          "value": 13414
+        },
+        {
+          "key": "drypoint",
+          "value": 12675
+        },
+        {
+          "key": "printing",
+          "value": 11465
+        },
+        {
+          "key": "painting",
+          "value": 7110
+        },
+        {
+          "key": "vitrification",
+          "value": 6983
+        },
+        {
+          "key": "gilding",
+          "value": 6693
+        },
+        {
+          "key": "printing block",
+          "value": 5205
+        },
+        {
+          "key": "color woodcut",
+          "value": 4664
+        },
+        {
+          "key": "steel engraving",
+          "value": 4440
+        },
+        {
+          "key": "casting",
+          "value": 3506
+        },
+        {
+          "key": "cutting",
+          "value": 2391
+        },
+        {
+          "key": "slide",
+          "value": 2111
+        },
+        {
+          "key": "damask",
+          "value": 2102
+        },
+        {
+          "key": "drawing",
+          "value": 1908
+        },
+        {
+          "key": "bobbin lace",
+          "value": 1807
+        },
+        {
+          "key": "embroidering",
+          "value": 1654
+        },
+        {
+          "key": "salted paper print",
+          "value": 1632
+        },
+        {
+          "key": "photolithography",
+          "value": 1571
+        },
+        {
+          "key": "linocut",
+          "value": 1440
+        },
+        {
+          "key": "glassblowing",
+          "value": 1376
+        },
+        {
+          "key": "cyanotype",
+          "value": 1239
+        },
+        {
+          "key": "gelatin silver slide on glass",
+          "value": 1190
+        },
+        {
+          "key": "maiolica",
+          "value": 1072
+        },
+        {
+          "key": "carbon print",
+          "value": 941
+        },
+        {
+          "key": "block printing (relief printing process)",
+          "value": 925
+        },
+        {
+          "key": "forging",
+          "value": 879
+        },
+        {
+          "key": "snipping",
+          "value": 855
+        },
+        {
+          "key": "inkjet print",
+          "value": 835
+        },
+        {
+          "key": "relief printing",
+          "value": 723
+        },
+        {
+          "key": "collage",
+          "value": 721
+        },
+        {
+          "key": "relief (sculpture technique)",
+          "value": 705
+        },
+        {
+          "key": "lacquering",
+          "value": 704
+        },
+        {
+          "key": "perforating",
+          "value": 661
+        },
+        {
+          "key": "retroussage",
+          "value": 614
+        },
+        {
+          "key": "counterproof",
+          "value": 585
+        },
+        {
+          "key": "photochrom",
+          "value": 540
+        },
+        {
+          "key": "knitting",
+          "value": 522
+        },
+        {
+          "key": "grinding",
+          "value": 473
+        },
+        {
+          "key": "ferrotyping",
+          "value": 472
+        },
+        {
+          "key": "calligraphy",
+          "value": 421
+        },
+        {
+          "key": "sewing",
+          "value": 401
+        },
+        {
+          "key": "nishiki-e",
+          "value": 376
+        },
+        {
+          "key": "handwriting",
+          "value": 363
+        },
+        {
+          "key": "ambrotype",
+          "value": 317
+        },
+        {
+          "key": "polishing",
+          "value": 285
+        },
+        {
+          "key": "tapestry",
+          "value": 280
+        },
+        {
+          "key": "Valenciennes lace",
+          "value": 277
+        },
+        {
+          "key": "decorated paper",
+          "value": 259
+        },
+        {
+          "key": "color linocut",
+          "value": 255
+        },
+        {
+          "key": "Mechlin (lace)",
+          "value": 219
+        },
+        {
+          "key": "sawing",
+          "value": 214
+        },
+        {
+          "key": "wet collodion negative",
+          "value": 213
+        },
+        {
+          "key": "soldering",
+          "value": 178
+        },
+        {
+          "key": "inlay (process)",
+          "value": 175
+        },
+        {
+          "key": "ball-point pens",
+          "value": 173
+        },
+        {
+          "key": "printed matter",
+          "value": 173
+        },
+        {
+          "key": "twill",
+          "value": 172
+        },
+        {
+          "key": "stapling",
+          "value": 171
+        },
+        {
+          "key": "braiding",
+          "value": 157
+        },
+        {
+          "key": "Lille lace",
+          "value": 156
+        },
+        {
+          "key": "combed marbled paper",
+          "value": 156
+        },
+        {
+          "key": "Alençon lace",
+          "value": 138
+        },
+        {
+          "key": "Binche lace",
+          "value": 135
+        },
+        {
+          "key": "mixed lace",
+          "value": 133
+        },
+        {
+          "key": "marbled paper",
+          "value": 129
+        },
+        {
+          "key": "filigree",
+          "value": 128
+        },
+        {
+          "key": "Brussels bobbin lace",
+          "value": 108
+        },
+        {
+          "key": "phantasy marbled paper",
+          "value": 104
+        },
+        {
+          "key": "scoring",
+          "value": 104
+        },
+        {
+          "key": "snail marbled paper",
+          "value": 100
+        },
+        {
+          "key": "agate marbled paper",
+          "value": 99
+        },
+        {
+          "key": "die cutting",
+          "value": 96
+        },
+        {
+          "key": "Brussels point de gaze",
+          "value": 93
+        },
+        {
+          "key": "filing",
+          "value": 92
+        },
+        {
+          "key": "old Flemish lace",
+          "value": 89
+        },
+        {
+          "key": "Cluny lace",
+          "value": 88
+        },
+        {
+          "key": "crocheting",
+          "value": 86
+        },
+        {
+          "key": "gluing",
+          "value": 81
+        },
+        {
+          "key": "lampas",
+          "value": 77
+        },
+        {
+          "key": "chintz",
+          "value": 75
+        },
+        {
+          "key": "stone marbled paper",
+          "value": 75
+        },
+        {
+          "key": "Brussels appliqué",
+          "value": 72
+        },
+        {
+          "key": "spanish marbled paper",
+          "value": 72
+        },
+        {
+          "key": "Venetian raised work",
+          "value": 71
+        },
+        {
+          "key": "flat Venetian (needle point)",
+          "value": 64
+        },
+        {
+          "key": "jacquard",
+          "value": 63
+        },
+        {
+          "key": "blow molding",
+          "value": 62
+        },
+        {
+          "key": "shell marbled paper",
+          "value": 61
+        },
+        {
+          "key": "Woodburygravure",
+          "value": 54
+        },
+        {
+          "key": "basting",
+          "value": 54
+        },
+        {
+          "key": "cocoa marbled paper",
+          "value": 51
+        }
+      ],
+      "name": "technique",
+      "otherTerms": 0,
+      "prettyName": 8
+    },
+    {
+      "facets": [
+        {
+          "key": " #737C84",
+          "value": 61862
+        },
+        {
+          "key": "#FBF6E1",
+          "value": 47494
+        },
+        {
+          "key": " #2F4F4F",
+          "value": 40936
+        },
+        {
+          "key": " #E0CC91",
+          "value": 36721
+        },
+        {
+          "key": " #FBF6E1",
+          "value": 22805
+        },
+        {
+          "key": " #000000",
+          "value": 22767
+        },
+        {
+          "key": " #B5BFCC",
+          "value": 13048
+        },
+        {
+          "key": "#737C84",
+          "value": 12158
+        },
+        {
+          "key": " #B35A1F",
+          "value": 8497
+        },
+        {
+          "key": "#E0CC91",
+          "value": 8184
+        },
+        {
+          "key": " #F6ECF3",
+          "value": 7702
+        },
+        {
+          "key": "#000000",
+          "value": 3307
+        },
+        {
+          "key": "#B5BFCC",
+          "value": 3069
+        },
+        {
+          "key": "#F6ECF3",
+          "value": 2046
+        },
+        {
+          "key": " #981313",
+          "value": 1894
+        },
+        {
+          "key": " #F49B7A",
+          "value": 1701
+        },
+        {
+          "key": "#2F4F4F",
+          "value": 1437
+        },
+        {
+          "key": " #DDA5AA",
+          "value": 1059
+        },
+        {
+          "key": " #E09714",
+          "value": 846
+        },
+        {
+          "key": "#B35A1F",
+          "value": 745
+        },
+        {
+          "key": " #367614",
+          "value": 718
+        },
+        {
+          "key": " #4019B1",
+          "value": 699
+        },
+        {
+          "key": " #4279DB",
+          "value": 694
+        },
+        {
+          "key": " #DE4153",
+          "value": 325
+        },
+        {
+          "key": " #62AD77",
+          "value": 238
+        },
+        {
+          "key": " #8268DC",
+          "value": 219
+        },
+        {
+          "key": " #850085",
+          "value": 189
+        },
+        {
+          "key": "#981313",
+          "value": 186
+        },
+        {
+          "key": "#DDA5AA",
+          "value": 139
+        },
+        {
+          "key": " #DF4C93",
+          "value": 117
+        },
+        {
+          "key": " #FFEB00",
+          "value": 94
+        },
+        {
+          "key": "#4279DB",
+          "value": 75
+        }
+      ],
+      "name": "normalized32Colors.hex",
+      "otherTerms": 302458,
+      "prettyName": 9
+    }
+  ]
+}

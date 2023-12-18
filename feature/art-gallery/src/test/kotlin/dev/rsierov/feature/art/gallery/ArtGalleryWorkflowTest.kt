@@ -37,7 +37,6 @@ class ArtGalleryWorkflowTest {
         val expectedHeaders = gallery.filterIndexed { i, _ -> i % 2 == 0 } // every odd is a header
         val actualHeaders = gallery.filterIsInstance<ArtGalleryItem.ArtistHeader>()
         assertEquals(expectedHeaders, actualHeaders, "every odd item is a header")
-
         assertEquals(actualHeaders, actualHeaders.distinct(), "every header is unique")
     }
 }

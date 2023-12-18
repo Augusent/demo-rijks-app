@@ -8,6 +8,9 @@ plugins {
 
 android {
     namespace = "dev.rsierov.rijks"
+    defaultConfig {
+        testInstrumentationRunner = "dev.rsierov.rijks.HiltApplicationTestRunner"
+    }
 }
 
 dependencies {
@@ -23,5 +26,13 @@ dependencies {
     implementation(libs.google.dagger.hilt.android)
     ksp(libs.google.dagger.hilt.compiler)
     
+    debugImplementation(libs.androidx.compose.testManifest)
+    androidTestImplementation(projects.data.testFixtures)
     androidTestImplementation(libs.androidx.test.junit)
+    androidTestImplementation(libs.androidx.test.runner)
+    androidTestImplementation(libs.androidx.uiautomator)
+    androidTestImplementation(libs.androidx.compose.test)
+    androidTestImplementation(libs.okhttp.mockwebserver)
+    androidTestImplementation(libs.google.dagger.hilt.testing.android)
+    kspAndroidTest(libs.google.dagger.hilt.testing.compiler)
 }

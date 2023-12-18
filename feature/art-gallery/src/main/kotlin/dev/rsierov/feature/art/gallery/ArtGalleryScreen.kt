@@ -41,7 +41,7 @@ import javax.inject.Inject
 internal class ArtGalleryScreen @Inject constructor() : Screen {
 
     @Composable
-    override fun Content(navController: NavHostController) {
+    override fun Content(navController: NavHostController, modifier: Modifier) {
         val viewModel = hiltViewModel<ViewModel>()
         val workflow = viewModel.workflow
         val gallery = workflow.gallery.collectAsLazyPagingItems()
@@ -51,7 +51,7 @@ internal class ArtGalleryScreen @Inject constructor() : Screen {
             onRetryPage = gallery::retry,
             onRefreshGallery = gallery::refresh,
             onArtClick = { navController.navigate(Screen.ArtDetails(it.objectNumber)) },
-            modifier = Modifier.fillMaxSize()
+            modifier = modifier.fillMaxSize()
         )
     }
 
@@ -130,7 +130,7 @@ private fun LazyListScope.mainGalleryContent(
             }
 
             is ArtGalleryItem.PieceOfArt -> item(
-                key = peekedItem.art.id,
+                key = peekedItem.art.objectNumber,
                 contentType = ArtGalleryItem.PieceOfArt::class,
             ) {
                 val item = gallery[index] as ArtGalleryItem.PieceOfArt

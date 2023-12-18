@@ -13,6 +13,7 @@ internal fun Project.configureAndroid() {
         defaultConfig {
             minSdk = AndroidVersion.minSdk
             targetSdk = AndroidVersion.targetSdk
+            testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         }
 
         compileOptions {
@@ -24,10 +25,6 @@ internal fun Project.configureAndroid() {
             unitTests {
                 isReturnDefaultValues = true
             }
-        }
-
-        sourceSets {
-            getByName("androidTest").resources.srcDirs("src/androidTest/res")
         }
     }
 

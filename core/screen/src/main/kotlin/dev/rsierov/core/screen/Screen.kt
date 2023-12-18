@@ -1,12 +1,13 @@
 package dev.rsierov.core.screen
 
 import androidx.compose.runtime.Composable
+import androidx.compose.ui.Modifier
 import androidx.navigation.NavHostController
 
 interface Screen {
 
     @Composable
-    fun Content(navController: NavHostController)
+    fun Content(navController: NavHostController, modifier: Modifier)
 
     @Suppress("FunctionName")
     companion object Destination {
