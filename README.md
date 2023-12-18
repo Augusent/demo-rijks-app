@@ -5,7 +5,7 @@ Rijks museum app featuring art collection and art details screens.
 
 #### Module Organization
 - The project's architecture follows a multi-module approach with a horizontal module separation strategy for `:feature` modules such as `:feature:art-gallery` and `:feature:art-details`.
-- Vertically, these 'feature' modules rely on 'library' and 'domain' modules that maintain public/impl contract separation approach. For example, the :api:public module defines the server API contract, while `:api:rijks-impl` implements it.
+- Vertically, these 'feature' modules rely on 'library' and 'domain' modules that maintain public/impl contract separation approach. For example, the `:api:public` module defines the server API contract, while `:api:rijks-impl` implements it.
 
 #### :app Module
 - The `:app` module serves as the main entry point, which constructs the project's dependency graph using `Hilt` and navigation graph using `androidx.navigation`.
