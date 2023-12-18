@@ -24,6 +24,6 @@ Rijks museum app featuring art collection and art details screens.
 - Test fixtures are available as a separate :data:testFixtures module for utilities and fakes reuse 
 
 #### Recordings
-| Android                        |
-|--------------------------------|
-| ![](recordings/rijks-app.gif)] |
+| Android                       |
+|-------------------------------|
+| ![](recordings/rijks-app.gif) |
