@@ -29,7 +29,7 @@ enum class Sorting {
 @Serializable
 data class ArtCollectionPage(
     @SerialName("artObjects") val artObjects: List<ArtObject> = emptyList(),
-    @SerialName("countFacets") val countFacets: CountFacets,
+    @SerialName("countFacets") val countFacets: CountFacets? = null,
     @SerialName("count") val count: Int = 0,
     @SerialName("facets") val facets: List<FacetsItem>? = null,
     @SerialName("elapsedMilliseconds") val elapsedMilliseconds: Int = 0,

@@ -41,6 +41,7 @@ include(
     ":api:public",
     ":api:rijks-impl",
     ":data",
+    ":data:testFixtures",
     ":feature:art-gallery",
     ":feature:art-details",
 )
