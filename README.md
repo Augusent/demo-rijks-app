@@ -3,6 +3,10 @@ Rijks museum app featuring art collection and art details screens.
 
 ### Architecture overview
 
+#### Build Script
+- The project uses Gradle's [convention plugins](https://docs.gradle.org/current/samples/sample_convention_plugins.html) defined in `/gradle/build-logic` dir for sharing build logic between submodules.
+- Build Script type safety is achieved by using Gradle's [Version Catalogue](https://docs.gradle.org/current/userguide/platforms.html) and Kotlin DSL.
+
 #### Module Organization
 - The project's architecture follows a multi-module approach with a horizontal module separation strategy for `:feature` modules such as `:feature:art-gallery` and `:feature:art-details`.
 - Vertically, these 'feature' modules rely on 'library' and 'domain' modules that maintain public/impl contract separation approach. For example, the `:api:public` module defines the server API contract, while `:api:rijks-impl` implements it.
@@ -24,7 +28,7 @@ Rijks museum app featuring art collection and art details screens.
 - Test fixtures are available as a separate `:data:testFixtures` module dependency for utilities and fakes reuse
 
 #### Notes
-The project requires Java 17 installed to run properly.
+The project requires Java 17 installed to build properly.
 
 #### Recordings
 | Android                       |
